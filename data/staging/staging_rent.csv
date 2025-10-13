@@ -1,0 +1,1123 @@
+date_month,suburb_name,region,territorial_authority,property_type,median_rent,count_bonds,lat,lon
+2023-01-01,Mount Eden,Auckland,Auckland City,1-bedroom,530,99,-36.874,174.757
+2023-01-01,Mount Eden,Auckland,Auckland City,2-bedroom,655,95,-36.874,174.757
+2023-01-01,Mount Eden,Auckland,Auckland City,3-bedroom,790,84,-36.874,174.757
+2023-02-01,Mount Eden,Auckland,Auckland City,1-bedroom,540,100,-36.874,174.757
+2023-02-01,Mount Eden,Auckland,Auckland City,2-bedroom,645,91,-36.874,174.757
+2023-02-01,Mount Eden,Auckland,Auckland City,3-bedroom,790,82,-36.874,174.757
+2023-03-01,Mount Eden,Auckland,Auckland City,1-bedroom,530,88,-36.874,174.757
+2023-03-01,Mount Eden,Auckland,Auckland City,2-bedroom,635,83,-36.874,174.757
+2023-03-01,Mount Eden,Auckland,Auckland City,3-bedroom,780,79,-36.874,174.757
+2023-04-01,Mount Eden,Auckland,Auckland City,1-bedroom,520,83,-36.874,174.757
+2023-04-01,Mount Eden,Auckland,Auckland City,2-bedroom,655,77,-36.874,174.757
+2023-04-01,Mount Eden,Auckland,Auckland City,3-bedroom,785,68,-36.874,174.757
+2023-05-01,Mount Eden,Auckland,Auckland City,1-bedroom,520,81,-36.874,174.757
+2023-05-01,Mount Eden,Auckland,Auckland City,2-bedroom,635,73,-36.874,174.757
+2023-05-01,Mount Eden,Auckland,Auckland City,3-bedroom,775,65,-36.874,174.757
+2023-06-01,Mount Eden,Auckland,Auckland City,1-bedroom,520,82,-36.874,174.757
+2023-06-01,Mount Eden,Auckland,Auckland City,2-bedroom,640,64,-36.874,174.757
+2023-06-01,Mount Eden,Auckland,Auckland City,3-bedroom,785,57,-36.874,174.757
+2023-07-01,Mount Eden,Auckland,Auckland City,1-bedroom,525,69,-36.874,174.757
+2023-07-01,Mount Eden,Auckland,Auckland City,2-bedroom,635,66,-36.874,174.757
+2023-07-01,Mount Eden,Auckland,Auckland City,3-bedroom,785,60,-36.874,174.757
+2023-08-01,Mount Eden,Auckland,Auckland City,1-bedroom,525,75,-36.874,174.757
+2023-08-01,Mount Eden,Auckland,Auckland City,2-bedroom,635,65,-36.874,174.757
+2023-08-01,Mount Eden,Auckland,Auckland City,3-bedroom,780,64,-36.874,174.757
+2023-09-01,Mount Eden,Auckland,Auckland City,1-bedroom,535,75,-36.874,174.757
+2023-09-01,Mount Eden,Auckland,Auckland City,2-bedroom,655,71,-36.874,174.757
+2023-09-01,Mount Eden,Auckland,Auckland City,3-bedroom,785,68,-36.874,174.757
+2023-10-01,Mount Eden,Auckland,Auckland City,1-bedroom,545,90,-36.874,174.757
+2023-10-01,Mount Eden,Auckland,Auckland City,2-bedroom,650,77,-36.874,174.757
+2023-10-01,Mount Eden,Auckland,Auckland City,3-bedroom,800,75,-36.874,174.757
+2023-11-01,Mount Eden,Auckland,Auckland City,1-bedroom,540,93,-36.874,174.757
+2023-11-01,Mount Eden,Auckland,Auckland City,2-bedroom,655,81,-36.874,174.757
+2023-11-01,Mount Eden,Auckland,Auckland City,3-bedroom,815,82,-36.874,174.757
+2023-12-01,Mount Eden,Auckland,Auckland City,1-bedroom,550,101,-36.874,174.757
+2023-12-01,Mount Eden,Auckland,Auckland City,2-bedroom,675,87,-36.874,174.757
+2023-12-01,Mount Eden,Auckland,Auckland City,3-bedroom,815,88,-36.874,174.757
+2024-01-01,Mount Eden,Auckland,Auckland City,1-bedroom,550,104,-36.874,174.757
+2024-01-01,Mount Eden,Auckland,Auckland City,2-bedroom,625,92,-36.874,174.757
+2024-01-01,Mount Eden,Auckland,Auckland City,3-bedroom,815,84,-36.874,174.757
+2024-02-01,Mount Eden,Auckland,Auckland City,1-bedroom,555,92,-36.874,174.757
+2024-02-01,Mount Eden,Auckland,Auckland City,2-bedroom,640,88,-36.874,174.757
+2024-02-01,Mount Eden,Auckland,Auckland City,3-bedroom,830,81,-36.874,174.757
+2024-03-01,Mount Eden,Auckland,Auckland City,1-bedroom,545,92,-36.874,174.757
+2024-03-01,Mount Eden,Auckland,Auckland City,2-bedroom,635,83,-36.874,174.757
+2024-03-01,Mount Eden,Auckland,Auckland City,3-bedroom,810,80,-36.874,174.757
+2024-04-01,Mount Eden,Auckland,Auckland City,1-bedroom,550,90,-36.874,174.757
+2024-04-01,Mount Eden,Auckland,Auckland City,2-bedroom,645,76,-36.874,174.757
+2024-04-01,Mount Eden,Auckland,Auckland City,3-bedroom,805,68,-36.874,174.757
+2024-05-01,Mount Eden,Auckland,Auckland City,1-bedroom,550,81,-36.874,174.757
+2024-05-01,Mount Eden,Auckland,Auckland City,2-bedroom,650,72,-36.874,174.757
+2024-05-01,Mount Eden,Auckland,Auckland City,3-bedroom,795,64,-36.874,174.757
+2024-06-01,Mount Eden,Auckland,Auckland City,1-bedroom,545,74,-36.874,174.757
+2024-06-01,Mount Eden,Auckland,Auckland City,2-bedroom,640,68,-36.874,174.757
+2024-06-01,Mount Eden,Auckland,Auckland City,3-bedroom,820,62,-36.874,174.757
+2024-07-01,Mount Eden,Auckland,Auckland City,1-bedroom,550,74,-36.874,174.757
+2024-07-01,Mount Eden,Auckland,Auckland City,2-bedroom,655,74,-36.874,174.757
+2024-07-01,Mount Eden,Auckland,Auckland City,3-bedroom,805,67,-36.874,174.757
+2024-08-01,Mount Eden,Auckland,Auckland City,1-bedroom,550,77,-36.874,174.757
+2024-08-01,Mount Eden,Auckland,Auckland City,2-bedroom,665,79,-36.874,174.757
+2024-08-01,Mount Eden,Auckland,Auckland City,3-bedroom,820,63,-36.874,174.757
+2024-09-01,Mount Eden,Auckland,Auckland City,1-bedroom,560,78,-36.874,174.757
+2024-09-01,Mount Eden,Auckland,Auckland City,2-bedroom,670,85,-36.874,174.757
+2024-09-01,Mount Eden,Auckland,Auckland City,3-bedroom,820,72,-36.874,174.757
+2024-10-01,Mount Eden,Auckland,Auckland City,1-bedroom,555,85,-36.874,174.757
+2024-10-01,Mount Eden,Auckland,Auckland City,2-bedroom,675,87,-36.874,174.757
+2024-10-01,Mount Eden,Auckland,Auckland City,3-bedroom,810,72,-36.874,174.757
+2024-11-01,Mount Eden,Auckland,Auckland City,1-bedroom,560,95,-36.874,174.757
+2024-11-01,Mount Eden,Auckland,Auckland City,2-bedroom,680,89,-36.874,174.757
+2024-11-01,Mount Eden,Auckland,Auckland City,3-bedroom,825,77,-36.874,174.757
+2024-12-01,Mount Eden,Auckland,Auckland City,1-bedroom,580,94,-36.874,174.757
+2024-12-01,Mount Eden,Auckland,Auckland City,2-bedroom,695,93,-36.874,174.757
+2024-12-01,Mount Eden,Auckland,Auckland City,3-bedroom,820,83,-36.874,174.757
+2025-01-01,Mount Eden,Auckland,Auckland City,1-bedroom,575,102,-36.874,174.757
+2025-01-01,Mount Eden,Auckland,Auckland City,2-bedroom,690,87,-36.874,174.757
+2025-01-01,Mount Eden,Auckland,Auckland City,3-bedroom,845,85,-36.874,174.757
+2025-02-01,Mount Eden,Auckland,Auckland City,1-bedroom,580,99,-36.874,174.757
+2025-02-01,Mount Eden,Auckland,Auckland City,2-bedroom,695,90,-36.874,174.757
+2025-02-01,Mount Eden,Auckland,Auckland City,3-bedroom,845,81,-36.874,174.757
+2025-03-01,Mount Eden,Auckland,Auckland City,1-bedroom,585,95,-36.874,174.757
+2025-03-01,Mount Eden,Auckland,Auckland City,2-bedroom,690,86,-36.874,174.757
+2025-03-01,Mount Eden,Auckland,Auckland City,3-bedroom,830,81,-36.874,174.757
+2025-04-01,Mount Eden,Auckland,Auckland City,1-bedroom,580,85,-36.874,174.757
+2025-04-01,Mount Eden,Auckland,Auckland City,2-bedroom,700,79,-36.874,174.757
+2025-04-01,Mount Eden,Auckland,Auckland City,3-bedroom,840,78,-36.874,174.757
+2025-05-01,Mount Eden,Auckland,Auckland City,1-bedroom,570,78,-36.874,174.757
+2025-05-01,Mount Eden,Auckland,Auckland City,2-bedroom,685,69,-36.874,174.757
+2025-05-01,Mount Eden,Auckland,Auckland City,3-bedroom,830,67,-36.874,174.757
+2025-06-01,Mount Eden,Auckland,Auckland City,1-bedroom,575,79,-36.874,174.757
+2025-06-01,Mount Eden,Auckland,Auckland City,2-bedroom,690,71,-36.874,174.757
+2025-06-01,Mount Eden,Auckland,Auckland City,3-bedroom,825,69,-36.874,174.757
+2025-07-01,Mount Eden,Auckland,Auckland City,1-bedroom,575,72,-36.874,174.757
+2025-07-01,Mount Eden,Auckland,Auckland City,2-bedroom,685,67,-36.874,174.757
+2025-07-01,Mount Eden,Auckland,Auckland City,3-bedroom,825,62,-36.874,174.757
+2025-08-01,Mount Eden,Auckland,Auckland City,1-bedroom,580,76,-36.874,174.757
+2025-08-01,Mount Eden,Auckland,Auckland City,2-bedroom,690,63,-36.874,174.757
+2025-08-01,Mount Eden,Auckland,Auckland City,3-bedroom,830,64,-36.874,174.757
+2025-09-01,Mount Eden,Auckland,Auckland City,1-bedroom,580,77,-36.874,174.757
+2025-09-01,Mount Eden,Auckland,Auckland City,2-bedroom,700,73,-36.874,174.757
+2025-09-01,Mount Eden,Auckland,Auckland City,3-bedroom,830,66,-36.874,174.757
+2025-10-01,Mount Eden,Auckland,Auckland City,1-bedroom,585,84,-36.874,174.757
+2025-10-01,Mount Eden,Auckland,Auckland City,2-bedroom,710,80,-36.874,174.757
+2025-10-01,Mount Eden,Auckland,Auckland City,3-bedroom,855,75,-36.874,174.757
+2023-01-01,Ponsonby,Auckland,Auckland City,1-bedroom,640,97,-36.848,174.739
+2023-01-01,Ponsonby,Auckland,Auckland City,2-bedroom,775,92,-36.848,174.739
+2023-01-01,Ponsonby,Auckland,Auckland City,3-bedroom,920,96,-36.848,174.739
+2023-02-01,Ponsonby,Auckland,Auckland City,1-bedroom,655,101,-36.848,174.739
+2023-02-01,Ponsonby,Auckland,Auckland City,2-bedroom,780,91,-36.848,174.739
+2023-02-01,Ponsonby,Auckland,Auckland City,3-bedroom,910,85,-36.848,174.739
+2023-03-01,Ponsonby,Auckland,Auckland City,1-bedroom,645,93,-36.848,174.739
+2023-03-01,Ponsonby,Auckland,Auckland City,2-bedroom,765,85,-36.848,174.739
+2023-03-01,Ponsonby,Auckland,Auckland City,3-bedroom,930,73,-36.848,174.739
+2023-04-01,Ponsonby,Auckland,Auckland City,1-bedroom,650,82,-36.848,174.739
+2023-04-01,Ponsonby,Auckland,Auckland City,2-bedroom,765,81,-36.848,174.739
+2023-04-01,Ponsonby,Auckland,Auckland City,3-bedroom,905,69,-36.848,174.739
+2023-05-01,Ponsonby,Auckland,Auckland City,1-bedroom,640,83,-36.848,174.739
+2023-05-01,Ponsonby,Auckland,Auckland City,2-bedroom,755,72,-36.848,174.739
+2023-05-01,Ponsonby,Auckland,Auckland City,3-bedroom,900,64,-36.848,174.739
+2023-06-01,Ponsonby,Auckland,Auckland City,1-bedroom,655,78,-36.848,174.739
+2023-06-01,Ponsonby,Auckland,Auckland City,2-bedroom,745,68,-36.848,174.739
+2023-06-01,Ponsonby,Auckland,Auckland City,3-bedroom,890,64,-36.848,174.739
+2023-07-01,Ponsonby,Auckland,Auckland City,1-bedroom,640,74,-36.848,174.739
+2023-07-01,Ponsonby,Auckland,Auckland City,2-bedroom,765,68,-36.848,174.739
+2023-07-01,Ponsonby,Auckland,Auckland City,3-bedroom,890,58,-36.848,174.739
+2023-08-01,Ponsonby,Auckland,Auckland City,1-bedroom,645,74,-36.848,174.739
+2023-08-01,Ponsonby,Auckland,Auckland City,2-bedroom,775,68,-36.848,174.739
+2023-08-01,Ponsonby,Auckland,Auckland City,3-bedroom,890,64,-36.848,174.739
+2023-09-01,Ponsonby,Auckland,Auckland City,1-bedroom,665,84,-36.848,174.739
+2023-09-01,Ponsonby,Auckland,Auckland City,2-bedroom,760,70,-36.848,174.739
+2023-09-01,Ponsonby,Auckland,Auckland City,3-bedroom,920,64,-36.848,174.739
+2023-10-01,Ponsonby,Auckland,Auckland City,1-bedroom,660,89,-36.848,174.739
+2023-10-01,Ponsonby,Auckland,Auckland City,2-bedroom,770,78,-36.848,174.739
+2023-10-01,Ponsonby,Auckland,Auckland City,3-bedroom,890,69,-36.848,174.739
+2023-11-01,Ponsonby,Auckland,Auckland City,1-bedroom,665,90,-36.848,174.739
+2023-11-01,Ponsonby,Auckland,Auckland City,2-bedroom,795,80,-36.848,174.739
+2023-11-01,Ponsonby,Auckland,Auckland City,3-bedroom,925,79,-36.848,174.739
+2023-12-01,Ponsonby,Auckland,Auckland City,1-bedroom,680,94,-36.848,174.739
+2023-12-01,Ponsonby,Auckland,Auckland City,2-bedroom,800,89,-36.848,174.739
+2023-12-01,Ponsonby,Auckland,Auckland City,3-bedroom,925,84,-36.848,174.739
+2024-01-01,Ponsonby,Auckland,Auckland City,1-bedroom,675,98,-36.848,174.739
+2024-01-01,Ponsonby,Auckland,Auckland City,2-bedroom,755,64,-36.848,174.739
+2024-01-01,Ponsonby,Auckland,Auckland City,3-bedroom,940,87,-36.848,174.739
+2024-02-01,Ponsonby,Auckland,Auckland City,1-bedroom,685,94,-36.848,174.739
+2024-02-01,Ponsonby,Auckland,Auckland City,2-bedroom,770,62,-36.848,174.739
+2024-02-01,Ponsonby,Auckland,Auckland City,3-bedroom,935,85,-36.848,174.739
+2024-03-01,Ponsonby,Auckland,Auckland City,1-bedroom,675,91,-36.848,174.739
+2024-03-01,Ponsonby,Auckland,Auckland City,2-bedroom,785,58,-36.848,174.739
+2024-03-01,Ponsonby,Auckland,Auckland City,3-bedroom,930,81,-36.848,174.739
+2024-04-01,Ponsonby,Auckland,Auckland City,1-bedroom,670,85,-36.848,174.739
+2024-04-01,Ponsonby,Auckland,Auckland City,2-bedroom,790,56,-36.848,174.739
+2024-04-01,Ponsonby,Auckland,Auckland City,3-bedroom,935,74,-36.848,174.739
+2024-05-01,Ponsonby,Auckland,Auckland City,1-bedroom,660,79,-36.848,174.739
+2024-05-01,Ponsonby,Auckland,Auckland City,2-bedroom,800,53,-36.848,174.739
+2024-05-01,Ponsonby,Auckland,Auckland City,3-bedroom,925,66,-36.848,174.739
+2024-06-01,Ponsonby,Auckland,Auckland City,1-bedroom,675,74,-36.848,174.739
+2024-06-01,Ponsonby,Auckland,Auckland City,2-bedroom,795,50,-36.848,174.739
+2024-06-01,Ponsonby,Auckland,Auckland City,3-bedroom,920,64,-36.848,174.739
+2024-07-01,Ponsonby,Auckland,Auckland City,1-bedroom,670,77,-36.848,174.739
+2024-07-01,Ponsonby,Auckland,Auckland City,2-bedroom,810,52,-36.848,174.739
+2024-07-01,Ponsonby,Auckland,Auckland City,3-bedroom,930,58,-36.848,174.739
+2024-08-01,Ponsonby,Auckland,Auckland City,1-bedroom,670,76,-36.848,174.739
+2024-08-01,Ponsonby,Auckland,Auckland City,2-bedroom,820,54,-36.848,174.739
+2024-08-01,Ponsonby,Auckland,Auckland City,3-bedroom,920,67,-36.848,174.739
+2024-09-01,Ponsonby,Auckland,Auckland City,1-bedroom,670,77,-36.848,174.739
+2024-09-01,Ponsonby,Auckland,Auckland City,2-bedroom,830,59,-36.848,174.739
+2024-09-01,Ponsonby,Auckland,Auckland City,3-bedroom,940,68,-36.848,174.739
+2024-10-01,Ponsonby,Auckland,Auckland City,1-bedroom,680,84,-36.848,174.739
+2024-10-01,Ponsonby,Auckland,Auckland City,2-bedroom,845,62,-36.848,174.739
+2024-10-01,Ponsonby,Auckland,Auckland City,3-bedroom,950,72,-36.848,174.739
+2024-11-01,Ponsonby,Auckland,Auckland City,1-bedroom,685,92,-36.848,174.739
+2024-11-01,Ponsonby,Auckland,Auckland City,2-bedroom,815,83,-36.848,174.739
+2024-11-01,Ponsonby,Auckland,Auckland City,3-bedroom,945,79,-36.848,174.739
+2024-12-01,Ponsonby,Auckland,Auckland City,1-bedroom,695,96,-36.848,174.739
+2024-12-01,Ponsonby,Auckland,Auckland City,2-bedroom,815,90,-36.848,174.739
+2024-12-01,Ponsonby,Auckland,Auckland City,3-bedroom,945,79,-36.848,174.739
+2025-01-01,Ponsonby,Auckland,Auckland City,1-bedroom,695,99,-36.848,174.739
+2025-01-01,Ponsonby,Auckland,Auckland City,2-bedroom,820,95,-36.848,174.739
+2025-01-01,Ponsonby,Auckland,Auckland City,3-bedroom,970,84,-36.848,174.739
+2025-02-01,Ponsonby,Auckland,Auckland City,1-bedroom,700,95,-36.848,174.739
+2025-02-01,Ponsonby,Auckland,Auckland City,2-bedroom,820,88,-36.848,174.739
+2025-02-01,Ponsonby,Auckland,Auckland City,3-bedroom,965,80,-36.848,174.739
+2025-03-01,Ponsonby,Auckland,Auckland City,1-bedroom,700,98,-36.848,174.739
+2025-03-01,Ponsonby,Auckland,Auckland City,2-bedroom,815,86,-36.848,174.739
+2025-03-01,Ponsonby,Auckland,Auckland City,3-bedroom,965,77,-36.848,174.739
+2025-04-01,Ponsonby,Auckland,Auckland City,1-bedroom,695,87,-36.848,174.739
+2025-04-01,Ponsonby,Auckland,Auckland City,2-bedroom,815,76,-36.848,174.739
+2025-04-01,Ponsonby,Auckland,Auckland City,3-bedroom,955,73,-36.848,174.739
+2025-05-01,Ponsonby,Auckland,Auckland City,1-bedroom,700,84,-36.848,174.739
+2025-05-01,Ponsonby,Auckland,Auckland City,2-bedroom,825,69,-36.848,174.739
+2025-05-01,Ponsonby,Auckland,Auckland City,3-bedroom,955,66,-36.848,174.739
+2025-06-01,Ponsonby,Auckland,Auckland City,1-bedroom,705,74,-36.848,174.739
+2025-06-01,Ponsonby,Auckland,Auckland City,2-bedroom,800,65,-36.848,174.739
+2025-06-01,Ponsonby,Auckland,Auckland City,3-bedroom,925,60,-36.848,174.739
+2025-07-01,Ponsonby,Auckland,Auckland City,1-bedroom,685,75,-36.848,174.739
+2025-07-01,Ponsonby,Auckland,Auckland City,2-bedroom,810,71,-36.848,174.739
+2025-07-01,Ponsonby,Auckland,Auckland City,3-bedroom,955,58,-36.848,174.739
+2025-08-01,Ponsonby,Auckland,Auckland City,1-bedroom,690,78,-36.848,174.739
+2025-08-01,Ponsonby,Auckland,Auckland City,2-bedroom,805,73,-36.848,174.739
+2025-08-01,Ponsonby,Auckland,Auckland City,3-bedroom,960,60,-36.848,174.739
+2025-09-01,Ponsonby,Auckland,Auckland City,1-bedroom,690,85,-36.848,174.739
+2025-09-01,Ponsonby,Auckland,Auckland City,2-bedroom,815,75,-36.848,174.739
+2025-09-01,Ponsonby,Auckland,Auckland City,3-bedroom,945,64,-36.848,174.739
+2025-10-01,Ponsonby,Auckland,Auckland City,1-bedroom,705,87,-36.848,174.739
+2025-10-01,Ponsonby,Auckland,Auckland City,2-bedroom,825,80,-36.848,174.739
+2025-10-01,Ponsonby,Auckland,Auckland City,3-bedroom,955,72,-36.848,174.739
+2023-01-01,Takapuna,Auckland,North Shore City,1-bedroom,610,101,-36.788,174.77
+2023-01-01,Takapuna,Auckland,North Shore City,2-bedroom,735,87,-36.788,174.77
+2023-01-01,Takapuna,Auckland,North Shore City,3-bedroom,860,88,-36.788,174.77
+2023-02-01,Takapuna,Auckland,North Shore City,1-bedroom,610,96,-36.788,174.77
+2023-02-01,Takapuna,Auckland,North Shore City,2-bedroom,740,89,-36.788,174.77
+2023-02-01,Takapuna,Auckland,North Shore City,3-bedroom,885,83,-36.788,174.77
+2023-03-01,Takapuna,Auckland,North Shore City,1-bedroom,620,99,-36.788,174.77
+2023-03-01,Takapuna,Auckland,North Shore City,2-bedroom,730,87,-36.788,174.77
+2023-03-01,Takapuna,Auckland,North Shore City,3-bedroom,875,82,-36.788,174.77
+2023-04-01,Takapuna,Auckland,North Shore City,1-bedroom,600,89,-36.788,174.77
+2023-04-01,Takapuna,Auckland,North Shore City,2-bedroom,735,73,-36.788,174.77
+2023-04-01,Takapuna,Auckland,North Shore City,3-bedroom,855,66,-36.788,174.77
+2023-05-01,Takapuna,Auckland,North Shore City,1-bedroom,600,83,-36.788,174.77
+2023-05-01,Takapuna,Auckland,North Shore City,2-bedroom,735,72,-36.788,174.77
+2023-05-01,Takapuna,Auckland,North Shore City,3-bedroom,875,62,-36.788,174.77
+2023-06-01,Takapuna,Auckland,North Shore City,1-bedroom,590,76,-36.788,174.77
+2023-06-01,Takapuna,Auckland,North Shore City,2-bedroom,725,67,-36.788,174.77
+2023-06-01,Takapuna,Auckland,North Shore City,3-bedroom,840,61,-36.788,174.77
+2023-07-01,Takapuna,Auckland,North Shore City,1-bedroom,595,76,-36.788,174.77
+2023-07-01,Takapuna,Auckland,North Shore City,2-bedroom,725,63,-36.788,174.77
+2023-07-01,Takapuna,Auckland,North Shore City,3-bedroom,855,56,-36.788,174.77
+2023-08-01,Takapuna,Auckland,North Shore City,1-bedroom,605,79,-36.788,174.77
+2023-08-01,Takapuna,Auckland,North Shore City,2-bedroom,720,69,-36.788,174.77
+2023-08-01,Takapuna,Auckland,North Shore City,3-bedroom,860,59,-36.788,174.77
+2023-09-01,Takapuna,Auckland,North Shore City,1-bedroom,610,78,-36.788,174.77
+2023-09-01,Takapuna,Auckland,North Shore City,2-bedroom,725,68,-36.788,174.77
+2023-09-01,Takapuna,Auckland,North Shore City,3-bedroom,885,66,-36.788,174.77
+2023-10-01,Takapuna,Auckland,North Shore City,1-bedroom,615,88,-36.788,174.77
+2023-10-01,Takapuna,Auckland,North Shore City,2-bedroom,735,77,-36.788,174.77
+2023-10-01,Takapuna,Auckland,North Shore City,3-bedroom,885,74,-36.788,174.77
+2023-11-01,Takapuna,Auckland,North Shore City,1-bedroom,620,92,-36.788,174.77
+2023-11-01,Takapuna,Auckland,North Shore City,2-bedroom,745,77,-36.788,174.77
+2023-11-01,Takapuna,Auckland,North Shore City,3-bedroom,875,82,-36.788,174.77
+2023-12-01,Takapuna,Auckland,North Shore City,1-bedroom,640,97,-36.788,174.77
+2023-12-01,Takapuna,Auckland,North Shore City,2-bedroom,755,90,-36.788,174.77
+2023-12-01,Takapuna,Auckland,North Shore City,3-bedroom,920,86,-36.788,174.77
+2024-01-01,Takapuna,Auckland,North Shore City,1-bedroom,630,97,-36.788,174.77
+2024-01-01,Takapuna,Auckland,North Shore City,2-bedroom,700,77,-36.788,174.77
+2024-01-01,Takapuna,Auckland,North Shore City,3-bedroom,890,80,-36.788,174.77
+2024-02-01,Takapuna,Auckland,North Shore City,1-bedroom,630,95,-36.788,174.77
+2024-02-01,Takapuna,Auckland,North Shore City,2-bedroom,715,74,-36.788,174.77
+2024-02-01,Takapuna,Auckland,North Shore City,3-bedroom,895,87,-36.788,174.77
+2024-03-01,Takapuna,Auckland,North Shore City,1-bedroom,635,91,-36.788,174.77
+2024-03-01,Takapuna,Auckland,North Shore City,2-bedroom,725,70,-36.788,174.77
+2024-03-01,Takapuna,Auckland,North Shore City,3-bedroom,885,78,-36.788,174.77
+2024-04-01,Takapuna,Auckland,North Shore City,1-bedroom,625,83,-36.788,174.77
+2024-04-01,Takapuna,Auckland,North Shore City,2-bedroom,730,69,-36.788,174.77
+2024-04-01,Takapuna,Auckland,North Shore City,3-bedroom,875,74,-36.788,174.77
+2024-05-01,Takapuna,Auckland,North Shore City,1-bedroom,625,79,-36.788,174.77
+2024-05-01,Takapuna,Auckland,North Shore City,2-bedroom,735,65,-36.788,174.77
+2024-05-01,Takapuna,Auckland,North Shore City,3-bedroom,885,63,-36.788,174.77
+2024-06-01,Takapuna,Auckland,North Shore City,1-bedroom,630,76,-36.788,174.77
+2024-06-01,Takapuna,Auckland,North Shore City,2-bedroom,740,63,-36.788,174.77
+2024-06-01,Takapuna,Auckland,North Shore City,3-bedroom,880,63,-36.788,174.77
+2024-07-01,Takapuna,Auckland,North Shore City,1-bedroom,630,71,-36.788,174.77
+2024-07-01,Takapuna,Auckland,North Shore City,2-bedroom,745,67,-36.788,174.77
+2024-07-01,Takapuna,Auckland,North Shore City,3-bedroom,870,61,-36.788,174.77
+2024-08-01,Takapuna,Auckland,North Shore City,1-bedroom,625,78,-36.788,174.77
+2024-08-01,Takapuna,Auckland,North Shore City,2-bedroom,755,71,-36.788,174.77
+2024-08-01,Takapuna,Auckland,North Shore City,3-bedroom,870,61,-36.788,174.77
+2024-09-01,Takapuna,Auckland,North Shore City,1-bedroom,635,78,-36.788,174.77
+2024-09-01,Takapuna,Auckland,North Shore City,2-bedroom,760,73,-36.788,174.77
+2024-09-01,Takapuna,Auckland,North Shore City,3-bedroom,895,62,-36.788,174.77
+2024-10-01,Takapuna,Auckland,North Shore City,1-bedroom,640,87,-36.788,174.77
+2024-10-01,Takapuna,Auckland,North Shore City,2-bedroom,770,76,-36.788,174.77
+2024-10-01,Takapuna,Auckland,North Shore City,3-bedroom,910,70,-36.788,174.77
+2024-11-01,Takapuna,Auckland,North Shore City,1-bedroom,655,90,-36.788,174.77
+2024-11-01,Takapuna,Auckland,North Shore City,2-bedroom,775,89,-36.788,174.77
+2024-11-01,Takapuna,Auckland,North Shore City,3-bedroom,890,76,-36.788,174.77
+2024-12-01,Takapuna,Auckland,North Shore City,1-bedroom,655,97,-36.788,174.77
+2024-12-01,Takapuna,Auckland,North Shore City,2-bedroom,780,87,-36.788,174.77
+2024-12-01,Takapuna,Auckland,North Shore City,3-bedroom,920,82,-36.788,174.77
+2025-01-01,Takapuna,Auckland,North Shore City,1-bedroom,665,100,-36.788,174.77
+2025-01-01,Takapuna,Auckland,North Shore City,2-bedroom,780,89,-36.788,174.77
+2025-01-01,Takapuna,Auckland,North Shore City,3-bedroom,915,83,-36.788,174.77
+2025-02-01,Takapuna,Auckland,North Shore City,1-bedroom,660,97,-36.788,174.77
+2025-02-01,Takapuna,Auckland,North Shore City,2-bedroom,780,95,-36.788,174.77
+2025-02-01,Takapuna,Auckland,North Shore City,3-bedroom,930,82,-36.788,174.77
+2025-03-01,Takapuna,Auckland,North Shore City,1-bedroom,665,92,-36.788,174.77
+2025-03-01,Takapuna,Auckland,North Shore City,2-bedroom,765,81,-36.788,174.77
+2025-03-01,Takapuna,Auckland,North Shore City,3-bedroom,900,77,-36.788,174.77
+2025-04-01,Takapuna,Auckland,North Shore City,1-bedroom,655,92,-36.788,174.77
+2025-04-01,Takapuna,Auckland,North Shore City,2-bedroom,775,77,-36.788,174.77
+2025-04-01,Takapuna,Auckland,North Shore City,3-bedroom,920,65,-36.788,174.77
+2025-05-01,Takapuna,Auckland,North Shore City,1-bedroom,655,83,-36.788,174.77
+2025-05-01,Takapuna,Auckland,North Shore City,2-bedroom,760,75,-36.788,174.77
+2025-05-01,Takapuna,Auckland,North Shore City,3-bedroom,915,64,-36.788,174.77
+2025-06-01,Takapuna,Auckland,North Shore City,1-bedroom,655,83,-36.788,174.77
+2025-06-01,Takapuna,Auckland,North Shore City,2-bedroom,770,68,-36.788,174.77
+2025-06-01,Takapuna,Auckland,North Shore City,3-bedroom,905,59,-36.788,174.77
+2025-07-01,Takapuna,Auckland,North Shore City,1-bedroom,655,72,-36.788,174.77
+2025-07-01,Takapuna,Auckland,North Shore City,2-bedroom,770,64,-36.788,174.77
+2025-07-01,Takapuna,Auckland,North Shore City,3-bedroom,910,60,-36.788,174.77
+2025-08-01,Takapuna,Auckland,North Shore City,1-bedroom,660,75,-36.788,174.77
+2025-08-01,Takapuna,Auckland,North Shore City,2-bedroom,770,64,-36.788,174.77
+2025-08-01,Takapuna,Auckland,North Shore City,3-bedroom,905,62,-36.788,174.77
+2025-09-01,Takapuna,Auckland,North Shore City,1-bedroom,665,78,-36.788,174.77
+2025-09-01,Takapuna,Auckland,North Shore City,2-bedroom,785,76,-36.788,174.77
+2025-09-01,Takapuna,Auckland,North Shore City,3-bedroom,920,71,-36.788,174.77
+2025-10-01,Takapuna,Auckland,North Shore City,1-bedroom,660,83,-36.788,174.77
+2025-10-01,Takapuna,Auckland,North Shore City,2-bedroom,775,82,-36.788,174.77
+2025-10-01,Takapuna,Auckland,North Shore City,3-bedroom,930,72,-36.788,174.77
+2023-01-01,Devonport,Auckland,North Shore City,1-bedroom,570,96,-36.831,174.799
+2023-01-01,Devonport,Auckland,North Shore City,2-bedroom,705,91,-36.831,174.799
+2023-01-01,Devonport,Auckland,North Shore City,3-bedroom,835,87,-36.831,174.799
+2023-02-01,Devonport,Auckland,North Shore City,1-bedroom,570,99,-36.831,174.799
+2023-02-01,Devonport,Auckland,North Shore City,2-bedroom,685,90,-36.831,174.799
+2023-02-01,Devonport,Auckland,North Shore City,3-bedroom,850,87,-36.831,174.799
+2023-03-01,Devonport,Auckland,North Shore City,1-bedroom,580,92,-36.831,174.799
+2023-03-01,Devonport,Auckland,North Shore City,2-bedroom,680,84,-36.831,174.799
+2023-03-01,Devonport,Auckland,North Shore City,3-bedroom,830,82,-36.831,174.799
+2023-04-01,Devonport,Auckland,North Shore City,1-bedroom,555,92,-36.831,174.799
+2023-04-01,Devonport,Auckland,North Shore City,2-bedroom,685,77,-36.831,174.799
+2023-04-01,Devonport,Auckland,North Shore City,3-bedroom,815,67,-36.831,174.799
+2023-05-01,Devonport,Auckland,North Shore City,1-bedroom,570,81,-36.831,174.799
+2023-05-01,Devonport,Auckland,North Shore City,2-bedroom,675,68,-36.831,174.799
+2023-05-01,Devonport,Auckland,North Shore City,3-bedroom,820,71,-36.831,174.799
+2023-06-01,Devonport,Auckland,North Shore City,1-bedroom,560,72,-36.831,174.799
+2023-06-01,Devonport,Auckland,North Shore City,2-bedroom,680,66,-36.831,174.799
+2023-06-01,Devonport,Auckland,North Shore City,3-bedroom,795,61,-36.831,174.799
+2023-07-01,Devonport,Auckland,North Shore City,1-bedroom,560,76,-36.831,174.799
+2023-07-01,Devonport,Auckland,North Shore City,2-bedroom,695,69,-36.831,174.799
+2023-07-01,Devonport,Auckland,North Shore City,3-bedroom,815,56,-36.831,174.799
+2023-08-01,Devonport,Auckland,North Shore City,1-bedroom,580,76,-36.831,174.799
+2023-08-01,Devonport,Auckland,North Shore City,2-bedroom,685,67,-36.831,174.799
+2023-08-01,Devonport,Auckland,North Shore City,3-bedroom,825,61,-36.831,174.799
+2023-09-01,Devonport,Auckland,North Shore City,1-bedroom,570,79,-36.831,174.799
+2023-09-01,Devonport,Auckland,North Shore City,2-bedroom,690,70,-36.831,174.799
+2023-09-01,Devonport,Auckland,North Shore City,3-bedroom,825,66,-36.831,174.799
+2023-10-01,Devonport,Auckland,North Shore City,1-bedroom,575,92,-36.831,174.799
+2023-10-01,Devonport,Auckland,North Shore City,2-bedroom,680,81,-36.831,174.799
+2023-10-01,Devonport,Auckland,North Shore City,3-bedroom,850,66,-36.831,174.799
+2023-11-01,Devonport,Auckland,North Shore City,1-bedroom,580,92,-36.831,174.799
+2023-11-01,Devonport,Auckland,North Shore City,2-bedroom,695,82,-36.831,174.799
+2023-11-01,Devonport,Auckland,North Shore City,3-bedroom,835,84,-36.831,174.799
+2023-12-01,Devonport,Auckland,North Shore City,1-bedroom,595,102,-36.831,174.799
+2023-12-01,Devonport,Auckland,North Shore City,2-bedroom,715,86,-36.831,174.799
+2023-12-01,Devonport,Auckland,North Shore City,3-bedroom,850,84,-36.831,174.799
+2024-01-01,Devonport,Auckland,North Shore City,1-bedroom,585,102,-36.831,174.799
+2024-01-01,Devonport,Auckland,North Shore City,2-bedroom,665,58,-36.831,174.799
+2024-01-01,Devonport,Auckland,North Shore City,3-bedroom,865,86,-36.831,174.799
+2024-02-01,Devonport,Auckland,North Shore City,1-bedroom,590,101,-36.831,174.799
+2024-02-01,Devonport,Auckland,North Shore City,2-bedroom,675,56,-36.831,174.799
+2024-02-01,Devonport,Auckland,North Shore City,3-bedroom,860,82,-36.831,174.799
+2024-03-01,Devonport,Auckland,North Shore City,1-bedroom,595,90,-36.831,174.799
+2024-03-01,Devonport,Auckland,North Shore City,2-bedroom,670,54,-36.831,174.799
+2024-03-01,Devonport,Auckland,North Shore City,3-bedroom,850,81,-36.831,174.799
+2024-04-01,Devonport,Auckland,North Shore City,1-bedroom,585,83,-36.831,174.799
+2024-04-01,Devonport,Auckland,North Shore City,2-bedroom,680,50,-36.831,174.799
+2024-04-01,Devonport,Auckland,North Shore City,3-bedroom,840,77,-36.831,174.799
+2024-05-01,Devonport,Auckland,North Shore City,1-bedroom,575,86,-36.831,174.799
+2024-05-01,Devonport,Auckland,North Shore City,2-bedroom,690,48,-36.831,174.799
+2024-05-01,Devonport,Auckland,North Shore City,3-bedroom,840,67,-36.831,174.799
+2024-06-01,Devonport,Auckland,North Shore City,1-bedroom,585,79,-36.831,174.799
+2024-06-01,Devonport,Auckland,North Shore City,2-bedroom,685,47,-36.831,174.799
+2024-06-01,Devonport,Auckland,North Shore City,3-bedroom,840,61,-36.831,174.799
+2024-07-01,Devonport,Auckland,North Shore City,1-bedroom,590,69,-36.831,174.799
+2024-07-01,Devonport,Auckland,North Shore City,2-bedroom,690,45,-36.831,174.799
+2024-07-01,Devonport,Auckland,North Shore City,3-bedroom,845,59,-36.831,174.799
+2024-08-01,Devonport,Auckland,North Shore City,1-bedroom,590,77,-36.831,174.799
+2024-08-01,Devonport,Auckland,North Shore City,2-bedroom,695,47,-36.831,174.799
+2024-08-01,Devonport,Auckland,North Shore City,3-bedroom,850,58,-36.831,174.799
+2024-09-01,Devonport,Auckland,North Shore City,1-bedroom,600,76,-36.831,174.799
+2024-09-01,Devonport,Auckland,North Shore City,2-bedroom,705,51,-36.831,174.799
+2024-09-01,Devonport,Auckland,North Shore City,3-bedroom,855,69,-36.831,174.799
+2024-10-01,Devonport,Auckland,North Shore City,1-bedroom,610,90,-36.831,174.799
+2024-10-01,Devonport,Auckland,North Shore City,2-bedroom,710,53,-36.831,174.799
+2024-10-01,Devonport,Auckland,North Shore City,3-bedroom,855,72,-36.831,174.799
+2024-11-01,Devonport,Auckland,North Shore City,1-bedroom,610,91,-36.831,174.799
+2024-11-01,Devonport,Auckland,North Shore City,2-bedroom,730,82,-36.831,174.799
+2024-11-01,Devonport,Auckland,North Shore City,3-bedroom,865,74,-36.831,174.799
+2024-12-01,Devonport,Auckland,North Shore City,1-bedroom,610,94,-36.831,174.799
+2024-12-01,Devonport,Auckland,North Shore City,2-bedroom,730,92,-36.831,174.799
+2024-12-01,Devonport,Auckland,North Shore City,3-bedroom,870,91,-36.831,174.799
+2025-01-01,Devonport,Auckland,North Shore City,1-bedroom,620,100,-36.831,174.799
+2025-01-01,Devonport,Auckland,North Shore City,2-bedroom,730,93,-36.831,174.799
+2025-01-01,Devonport,Auckland,North Shore City,3-bedroom,875,85,-36.831,174.799
+2025-02-01,Devonport,Auckland,North Shore City,1-bedroom,635,98,-36.831,174.799
+2025-02-01,Devonport,Auckland,North Shore City,2-bedroom,745,87,-36.831,174.799
+2025-02-01,Devonport,Auckland,North Shore City,3-bedroom,880,88,-36.831,174.799
+2025-03-01,Devonport,Auckland,North Shore City,1-bedroom,610,99,-36.831,174.799
+2025-03-01,Devonport,Auckland,North Shore City,2-bedroom,740,83,-36.831,174.799
+2025-03-01,Devonport,Auckland,North Shore City,3-bedroom,885,81,-36.831,174.799
+2025-04-01,Devonport,Auckland,North Shore City,1-bedroom,620,82,-36.831,174.799
+2025-04-01,Devonport,Auckland,North Shore City,2-bedroom,730,77,-36.831,174.799
+2025-04-01,Devonport,Auckland,North Shore City,3-bedroom,875,74,-36.831,174.799
+2025-05-01,Devonport,Auckland,North Shore City,1-bedroom,615,77,-36.831,174.799
+2025-05-01,Devonport,Auckland,North Shore City,2-bedroom,735,74,-36.831,174.799
+2025-05-01,Devonport,Auckland,North Shore City,3-bedroom,875,69,-36.831,174.799
+2025-06-01,Devonport,Auckland,North Shore City,1-bedroom,615,77,-36.831,174.799
+2025-06-01,Devonport,Auckland,North Shore City,2-bedroom,730,62,-36.831,174.799
+2025-06-01,Devonport,Auckland,North Shore City,3-bedroom,870,62,-36.831,174.799
+2025-07-01,Devonport,Auckland,North Shore City,1-bedroom,615,71,-36.831,174.799
+2025-07-01,Devonport,Auckland,North Shore City,2-bedroom,720,69,-36.831,174.799
+2025-07-01,Devonport,Auckland,North Shore City,3-bedroom,865,61,-36.831,174.799
+2025-08-01,Devonport,Auckland,North Shore City,1-bedroom,615,76,-36.831,174.799
+2025-08-01,Devonport,Auckland,North Shore City,2-bedroom,740,66,-36.831,174.799
+2025-08-01,Devonport,Auckland,North Shore City,3-bedroom,870,60,-36.831,174.799
+2025-09-01,Devonport,Auckland,North Shore City,1-bedroom,615,80,-36.831,174.799
+2025-09-01,Devonport,Auckland,North Shore City,2-bedroom,740,70,-36.831,174.799
+2025-09-01,Devonport,Auckland,North Shore City,3-bedroom,890,63,-36.831,174.799
+2025-10-01,Devonport,Auckland,North Shore City,1-bedroom,625,86,-36.831,174.799
+2025-10-01,Devonport,Auckland,North Shore City,2-bedroom,755,79,-36.831,174.799
+2025-10-01,Devonport,Auckland,North Shore City,3-bedroom,895,68,-36.831,174.799
+2023-01-01,Albany,Auckland,Auckland City,1-bedroom,490,102,-36.713,174.707
+2023-01-01,Albany,Auckland,Auckland City,2-bedroom,610,94,-36.713,174.707
+2023-01-01,Albany,Auckland,Auckland City,3-bedroom,745,89,-36.713,174.707
+2023-02-01,Albany,Auckland,Auckland City,1-bedroom,500,97,-36.713,174.707
+2023-02-01,Albany,Auckland,Auckland City,2-bedroom,605,93,-36.713,174.707
+2023-02-01,Albany,Auckland,Auckland City,3-bedroom,765,81,-36.713,174.707
+2023-03-01,Albany,Auckland,Auckland City,1-bedroom,485,92,-36.713,174.707
+2023-03-01,Albany,Auckland,Auckland City,2-bedroom,600,82,-36.713,174.707
+2023-03-01,Albany,Auckland,Auckland City,3-bedroom,740,76,-36.713,174.707
+2023-04-01,Albany,Auckland,Auckland City,1-bedroom,485,88,-36.713,174.707
+2023-04-01,Albany,Auckland,Auckland City,2-bedroom,615,75,-36.713,174.707
+2023-04-01,Albany,Auckland,Auckland City,3-bedroom,755,71,-36.713,174.707
+2023-05-01,Albany,Auckland,Auckland City,1-bedroom,485,83,-36.713,174.707
+2023-05-01,Albany,Auckland,Auckland City,2-bedroom,595,73,-36.713,174.707
+2023-05-01,Albany,Auckland,Auckland City,3-bedroom,745,67,-36.713,174.707
+2023-06-01,Albany,Auckland,Auckland City,1-bedroom,485,83,-36.713,174.707
+2023-06-01,Albany,Auckland,Auckland City,2-bedroom,600,65,-36.713,174.707
+2023-06-01,Albany,Auckland,Auckland City,3-bedroom,735,59,-36.713,174.707
+2023-07-01,Albany,Auckland,Auckland City,1-bedroom,480,78,-36.713,174.707
+2023-07-01,Albany,Auckland,Auckland City,2-bedroom,615,64,-36.713,174.707
+2023-07-01,Albany,Auckland,Auckland City,3-bedroom,735,61,-36.713,174.707
+2023-08-01,Albany,Auckland,Auckland City,1-bedroom,485,78,-36.713,174.707
+2023-08-01,Albany,Auckland,Auckland City,2-bedroom,610,63,-36.713,174.707
+2023-08-01,Albany,Auckland,Auckland City,3-bedroom,760,66,-36.713,174.707
+2023-09-01,Albany,Auckland,Auckland City,1-bedroom,490,80,-36.713,174.707
+2023-09-01,Albany,Auckland,Auckland City,2-bedroom,615,73,-36.713,174.707
+2023-09-01,Albany,Auckland,Auckland City,3-bedroom,755,72,-36.713,174.707
+2023-10-01,Albany,Auckland,Auckland City,1-bedroom,495,85,-36.713,174.707
+2023-10-01,Albany,Auckland,Auckland City,2-bedroom,610,76,-36.713,174.707
+2023-10-01,Albany,Auckland,Auckland City,3-bedroom,760,77,-36.713,174.707
+2023-11-01,Albany,Auckland,Auckland City,1-bedroom,500,94,-36.713,174.707
+2023-11-01,Albany,Auckland,Auckland City,2-bedroom,625,88,-36.713,174.707
+2023-11-01,Albany,Auckland,Auckland City,3-bedroom,790,77,-36.713,174.707
+2023-12-01,Albany,Auckland,Auckland City,1-bedroom,505,101,-36.713,174.707
+2023-12-01,Albany,Auckland,Auckland City,2-bedroom,635,94,-36.713,174.707
+2023-12-01,Albany,Auckland,Auckland City,3-bedroom,775,82,-36.713,174.707
+2024-01-01,Albany,Auckland,Auckland City,1-bedroom,515,103,-36.713,174.707
+2024-01-01,Albany,Auckland,Auckland City,2-bedroom,580,70,-36.713,174.707
+2024-01-01,Albany,Auckland,Auckland City,3-bedroom,785,88,-36.713,174.707
+2024-02-01,Albany,Auckland,Auckland City,1-bedroom,520,100,-36.713,174.707
+2024-02-01,Albany,Auckland,Auckland City,2-bedroom,590,66,-36.713,174.707
+2024-02-01,Albany,Auckland,Auckland City,3-bedroom,785,80,-36.713,174.707
+2024-03-01,Albany,Auckland,Auckland City,1-bedroom,515,92,-36.713,174.707
+2024-03-01,Albany,Auckland,Auckland City,2-bedroom,600,63,-36.713,174.707
+2024-03-01,Albany,Auckland,Auckland City,3-bedroom,775,78,-36.713,174.707
+2024-04-01,Albany,Auckland,Auckland City,1-bedroom,500,89,-36.713,174.707
+2024-04-01,Albany,Auckland,Auckland City,2-bedroom,595,61,-36.713,174.707
+2024-04-01,Albany,Auckland,Auckland City,3-bedroom,765,73,-36.713,174.707
+2024-05-01,Albany,Auckland,Auckland City,1-bedroom,510,85,-36.713,174.707
+2024-05-01,Albany,Auckland,Auckland City,2-bedroom,610,57,-36.713,174.707
+2024-05-01,Albany,Auckland,Auckland City,3-bedroom,770,66,-36.713,174.707
+2024-06-01,Albany,Auckland,Auckland City,1-bedroom,505,77,-36.713,174.707
+2024-06-01,Albany,Auckland,Auckland City,2-bedroom,605,52,-36.713,174.707
+2024-06-01,Albany,Auckland,Auckland City,3-bedroom,765,59,-36.713,174.707
+2024-07-01,Albany,Auckland,Auckland City,1-bedroom,515,70,-36.713,174.707
+2024-07-01,Albany,Auckland,Auckland City,2-bedroom,615,55,-36.713,174.707
+2024-07-01,Albany,Auckland,Auckland City,3-bedroom,780,59,-36.713,174.707
+2024-08-01,Albany,Auckland,Auckland City,1-bedroom,510,82,-36.713,174.707
+2024-08-01,Albany,Auckland,Auckland City,2-bedroom,625,59,-36.713,174.707
+2024-08-01,Albany,Auckland,Auckland City,3-bedroom,770,60,-36.713,174.707
+2024-09-01,Albany,Auckland,Auckland City,1-bedroom,510,83,-36.713,174.707
+2024-09-01,Albany,Auckland,Auckland City,2-bedroom,630,64,-36.713,174.707
+2024-09-01,Albany,Auckland,Auckland City,3-bedroom,765,68,-36.713,174.707
+2024-10-01,Albany,Auckland,Auckland City,1-bedroom,525,87,-36.713,174.707
+2024-10-01,Albany,Auckland,Auckland City,2-bedroom,640,67,-36.713,174.707
+2024-10-01,Albany,Auckland,Auckland City,3-bedroom,770,70,-36.713,174.707
+2024-11-01,Albany,Auckland,Auckland City,1-bedroom,525,94,-36.713,174.707
+2024-11-01,Albany,Auckland,Auckland City,2-bedroom,645,85,-36.713,174.707
+2024-11-01,Albany,Auckland,Auckland City,3-bedroom,780,83,-36.713,174.707
+2024-12-01,Albany,Auckland,Auckland City,1-bedroom,530,101,-36.713,174.707
+2024-12-01,Albany,Auckland,Auckland City,2-bedroom,655,90,-36.713,174.707
+2024-12-01,Albany,Auckland,Auckland City,3-bedroom,800,84,-36.713,174.707
+2025-01-01,Albany,Auckland,Auckland City,1-bedroom,540,104,-36.713,174.707
+2025-01-01,Albany,Auckland,Auckland City,2-bedroom,660,93,-36.713,174.707
+2025-01-01,Albany,Auckland,Auckland City,3-bedroom,800,89,-36.713,174.707
+2025-02-01,Albany,Auckland,Auckland City,1-bedroom,530,103,-36.713,174.707
+2025-02-01,Albany,Auckland,Auckland City,2-bedroom,660,85,-36.713,174.707
+2025-02-01,Albany,Auckland,Auckland City,3-bedroom,800,81,-36.713,174.707
+2025-03-01,Albany,Auckland,Auckland City,1-bedroom,540,91,-36.713,174.707
+2025-03-01,Albany,Auckland,Auckland City,2-bedroom,655,79,-36.713,174.707
+2025-03-01,Albany,Auckland,Auckland City,3-bedroom,795,71,-36.713,174.707
+2025-04-01,Albany,Auckland,Auckland City,1-bedroom,525,89,-36.713,174.707
+2025-04-01,Albany,Auckland,Auckland City,2-bedroom,660,79,-36.713,174.707
+2025-04-01,Albany,Auckland,Auckland City,3-bedroom,785,72,-36.713,174.707
+2025-05-01,Albany,Auckland,Auckland City,1-bedroom,530,77,-36.713,174.707
+2025-05-01,Albany,Auckland,Auckland City,2-bedroom,660,74,-36.713,174.707
+2025-05-01,Albany,Auckland,Auckland City,3-bedroom,790,66,-36.713,174.707
+2025-06-01,Albany,Auckland,Auckland City,1-bedroom,535,70,-36.713,174.707
+2025-06-01,Albany,Auckland,Auckland City,2-bedroom,650,65,-36.713,174.707
+2025-06-01,Albany,Auckland,Auckland City,3-bedroom,780,60,-36.713,174.707
+2025-07-01,Albany,Auckland,Auckland City,1-bedroom,545,76,-36.713,174.707
+2025-07-01,Albany,Auckland,Auckland City,2-bedroom,645,67,-36.713,174.707
+2025-07-01,Albany,Auckland,Auckland City,3-bedroom,800,62,-36.713,174.707
+2025-08-01,Albany,Auckland,Auckland City,1-bedroom,535,74,-36.713,174.707
+2025-08-01,Albany,Auckland,Auckland City,2-bedroom,660,68,-36.713,174.707
+2025-08-01,Albany,Auckland,Auckland City,3-bedroom,800,63,-36.713,174.707
+2025-09-01,Albany,Auckland,Auckland City,1-bedroom,545,79,-36.713,174.707
+2025-09-01,Albany,Auckland,Auckland City,2-bedroom,670,72,-36.713,174.707
+2025-09-01,Albany,Auckland,Auckland City,3-bedroom,815,64,-36.713,174.707
+2025-10-01,Albany,Auckland,Auckland City,1-bedroom,555,88,-36.713,174.707
+2025-10-01,Albany,Auckland,Auckland City,2-bedroom,660,77,-36.713,174.707
+2025-10-01,Albany,Auckland,Auckland City,3-bedroom,805,73,-36.713,174.707
+2023-01-01,Te Aro,Wellington,Wellington City,1-bedroom,570,74,-41.292,174.777
+2023-01-01,Te Aro,Wellington,Wellington City,2-bedroom,690,75,-41.292,174.777
+2023-01-01,Te Aro,Wellington,Wellington City,3-bedroom,845,66,-41.292,174.777
+2023-02-01,Te Aro,Wellington,Wellington City,1-bedroom,570,75,-41.292,174.777
+2023-02-01,Te Aro,Wellington,Wellington City,2-bedroom,695,64,-41.292,174.777
+2023-02-01,Te Aro,Wellington,Wellington City,3-bedroom,830,58,-41.292,174.777
+2023-03-01,Te Aro,Wellington,Wellington City,1-bedroom,570,73,-41.292,174.777
+2023-03-01,Te Aro,Wellington,Wellington City,2-bedroom,685,69,-41.292,174.777
+2023-03-01,Te Aro,Wellington,Wellington City,3-bedroom,815,55,-41.292,174.777
+2023-04-01,Te Aro,Wellington,Wellington City,1-bedroom,565,69,-41.292,174.777
+2023-04-01,Te Aro,Wellington,Wellington City,2-bedroom,695,58,-41.292,174.777
+2023-04-01,Te Aro,Wellington,Wellington City,3-bedroom,835,54,-41.292,174.777
+2023-05-01,Te Aro,Wellington,Wellington City,1-bedroom,560,64,-41.292,174.777
+2023-05-01,Te Aro,Wellington,Wellington City,2-bedroom,685,49,-41.292,174.777
+2023-05-01,Te Aro,Wellington,Wellington City,3-bedroom,835,54,-41.292,174.777
+2023-06-01,Te Aro,Wellington,Wellington City,1-bedroom,555,58,-41.292,174.777
+2023-06-01,Te Aro,Wellington,Wellington City,2-bedroom,685,51,-41.292,174.777
+2023-06-01,Te Aro,Wellington,Wellington City,3-bedroom,815,44,-41.292,174.777
+2023-07-01,Te Aro,Wellington,Wellington City,1-bedroom,560,59,-41.292,174.777
+2023-07-01,Te Aro,Wellington,Wellington City,2-bedroom,685,48,-41.292,174.777
+2023-07-01,Te Aro,Wellington,Wellington City,3-bedroom,825,36,-41.292,174.777
+2023-08-01,Te Aro,Wellington,Wellington City,1-bedroom,570,52,-41.292,174.777
+2023-08-01,Te Aro,Wellington,Wellington City,2-bedroom,680,47,-41.292,174.777
+2023-08-01,Te Aro,Wellington,Wellington City,3-bedroom,810,49,-41.292,174.777
+2023-09-01,Te Aro,Wellington,Wellington City,1-bedroom,565,62,-41.292,174.777
+2023-09-01,Te Aro,Wellington,Wellington City,2-bedroom,685,56,-41.292,174.777
+2023-09-01,Te Aro,Wellington,Wellington City,3-bedroom,825,46,-41.292,174.777
+2023-10-01,Te Aro,Wellington,Wellington City,1-bedroom,580,64,-41.292,174.777
+2023-10-01,Te Aro,Wellington,Wellington City,2-bedroom,685,58,-41.292,174.777
+2023-10-01,Te Aro,Wellington,Wellington City,3-bedroom,845,57,-41.292,174.777
+2023-11-01,Te Aro,Wellington,Wellington City,1-bedroom,575,70,-41.292,174.777
+2023-11-01,Te Aro,Wellington,Wellington City,2-bedroom,695,70,-41.292,174.777
+2023-11-01,Te Aro,Wellington,Wellington City,3-bedroom,845,61,-41.292,174.777
+2023-12-01,Te Aro,Wellington,Wellington City,1-bedroom,590,75,-41.292,174.777
+2023-12-01,Te Aro,Wellington,Wellington City,2-bedroom,700,67,-41.292,174.777
+2023-12-01,Te Aro,Wellington,Wellington City,3-bedroom,845,63,-41.292,174.777
+2024-01-01,Te Aro,Wellington,Wellington City,1-bedroom,590,76,-41.292,174.777
+2024-01-01,Te Aro,Wellington,Wellington City,2-bedroom,710,69,-41.292,174.777
+2024-01-01,Te Aro,Wellington,Wellington City,3-bedroom,850,58,-41.292,174.777
+2024-02-01,Te Aro,Wellington,Wellington City,1-bedroom,590,75,-41.292,174.777
+2024-02-01,Te Aro,Wellington,Wellington City,2-bedroom,715,59,-41.292,174.777
+2024-02-01,Te Aro,Wellington,Wellington City,3-bedroom,870,63,-41.292,174.777
+2024-03-01,Te Aro,Wellington,Wellington City,1-bedroom,590,68,-41.292,174.777
+2024-03-01,Te Aro,Wellington,Wellington City,2-bedroom,710,61,-41.292,174.777
+2024-03-01,Te Aro,Wellington,Wellington City,3-bedroom,840,65,-41.292,174.777
+2024-04-01,Te Aro,Wellington,Wellington City,1-bedroom,580,66,-41.292,174.777
+2024-04-01,Te Aro,Wellington,Wellington City,2-bedroom,710,60,-41.292,174.777
+2024-04-01,Te Aro,Wellington,Wellington City,3-bedroom,845,56,-41.292,174.777
+2024-05-01,Te Aro,Wellington,Wellington City,1-bedroom,595,61,-41.292,174.777
+2024-05-01,Te Aro,Wellington,Wellington City,2-bedroom,700,57,-41.292,174.777
+2024-05-01,Te Aro,Wellington,Wellington City,3-bedroom,850,53,-41.292,174.777
+2024-06-01,Te Aro,Wellington,Wellington City,1-bedroom,585,54,-41.292,174.777
+2024-06-01,Te Aro,Wellington,Wellington City,2-bedroom,710,47,-41.292,174.777
+2024-06-01,Te Aro,Wellington,Wellington City,3-bedroom,840,44,-41.292,174.777
+2024-07-01,Te Aro,Wellington,Wellington City,1-bedroom,580,57,-41.292,174.777
+2024-07-01,Te Aro,Wellington,Wellington City,2-bedroom,700,50,-41.292,174.777
+2024-07-01,Te Aro,Wellington,Wellington City,3-bedroom,850,46,-41.292,174.777
+2024-08-01,Te Aro,Wellington,Wellington City,1-bedroom,580,60,-41.292,174.777
+2024-08-01,Te Aro,Wellington,Wellington City,2-bedroom,710,47,-41.292,174.777
+2024-08-01,Te Aro,Wellington,Wellington City,3-bedroom,845,48,-41.292,174.777
+2024-09-01,Te Aro,Wellington,Wellington City,1-bedroom,585,65,-41.292,174.777
+2024-09-01,Te Aro,Wellington,Wellington City,2-bedroom,705,54,-41.292,174.777
+2024-09-01,Te Aro,Wellington,Wellington City,3-bedroom,845,50,-41.292,174.777
+2024-10-01,Te Aro,Wellington,Wellington City,1-bedroom,585,61,-41.292,174.777
+2024-10-01,Te Aro,Wellington,Wellington City,2-bedroom,725,56,-41.292,174.777
+2024-10-01,Te Aro,Wellington,Wellington City,3-bedroom,845,48,-41.292,174.777
+2024-11-01,Te Aro,Wellington,Wellington City,1-bedroom,595,67,-41.292,174.777
+2024-11-01,Te Aro,Wellington,Wellington City,2-bedroom,730,67,-41.292,174.777
+2024-11-01,Te Aro,Wellington,Wellington City,3-bedroom,850,66,-41.292,174.777
+2024-12-01,Te Aro,Wellington,Wellington City,1-bedroom,605,73,-41.292,174.777
+2024-12-01,Te Aro,Wellington,Wellington City,2-bedroom,705,74,-41.292,174.777
+2024-12-01,Te Aro,Wellington,Wellington City,3-bedroom,850,58,-41.292,174.777
+2025-01-01,Te Aro,Wellington,Wellington City,1-bedroom,610,83,-41.292,174.777
+2025-01-01,Te Aro,Wellington,Wellington City,2-bedroom,735,70,-41.292,174.777
+2025-01-01,Te Aro,Wellington,Wellington City,3-bedroom,870,67,-41.292,174.777
+2025-02-01,Te Aro,Wellington,Wellington City,1-bedroom,610,75,-41.292,174.777
+2025-02-01,Te Aro,Wellington,Wellington City,2-bedroom,725,67,-41.292,174.777
+2025-02-01,Te Aro,Wellington,Wellington City,3-bedroom,860,62,-41.292,174.777
+2025-03-01,Te Aro,Wellington,Wellington City,1-bedroom,590,70,-41.292,174.777
+2025-03-01,Te Aro,Wellington,Wellington City,2-bedroom,715,61,-41.292,174.777
+2025-03-01,Te Aro,Wellington,Wellington City,3-bedroom,865,64,-41.292,174.777
+2025-04-01,Te Aro,Wellington,Wellington City,1-bedroom,605,61,-41.292,174.777
+2025-04-01,Te Aro,Wellington,Wellington City,2-bedroom,715,62,-41.292,174.777
+2025-04-01,Te Aro,Wellington,Wellington City,3-bedroom,850,54,-41.292,174.777
+2025-05-01,Te Aro,Wellington,Wellington City,1-bedroom,600,58,-41.292,174.777
+2025-05-01,Te Aro,Wellington,Wellington City,2-bedroom,720,50,-41.292,174.777
+2025-05-01,Te Aro,Wellington,Wellington City,3-bedroom,850,51,-41.292,174.777
+2025-06-01,Te Aro,Wellington,Wellington City,1-bedroom,590,59,-41.292,174.777
+2025-06-01,Te Aro,Wellington,Wellington City,2-bedroom,715,52,-41.292,174.777
+2025-06-01,Te Aro,Wellington,Wellington City,3-bedroom,855,50,-41.292,174.777
+2025-07-01,Te Aro,Wellington,Wellington City,1-bedroom,600,55,-41.292,174.777
+2025-07-01,Te Aro,Wellington,Wellington City,2-bedroom,715,51,-41.292,174.777
+2025-07-01,Te Aro,Wellington,Wellington City,3-bedroom,855,45,-41.292,174.777
+2025-08-01,Te Aro,Wellington,Wellington City,1-bedroom,595,55,-41.292,174.777
+2025-08-01,Te Aro,Wellington,Wellington City,2-bedroom,710,56,-41.292,174.777
+2025-08-01,Te Aro,Wellington,Wellington City,3-bedroom,845,44,-41.292,174.777
+2025-09-01,Te Aro,Wellington,Wellington City,1-bedroom,600,64,-41.292,174.777
+2025-09-01,Te Aro,Wellington,Wellington City,2-bedroom,720,58,-41.292,174.777
+2025-09-01,Te Aro,Wellington,Wellington City,3-bedroom,855,50,-41.292,174.777
+2025-10-01,Te Aro,Wellington,Wellington City,1-bedroom,605,72,-41.292,174.777
+2025-10-01,Te Aro,Wellington,Wellington City,2-bedroom,720,60,-41.292,174.777
+2025-10-01,Te Aro,Wellington,Wellington City,3-bedroom,875,56,-41.292,174.777
+2023-01-01,Karori,Wellington,Wellington City,1-bedroom,515,75,-41.286,174.74
+2023-01-01,Karori,Wellington,Wellington City,2-bedroom,640,68,-41.286,174.74
+2023-01-01,Karori,Wellington,Wellington City,3-bedroom,790,71,-41.286,174.74
+2023-02-01,Karori,Wellington,Wellington City,1-bedroom,515,70,-41.286,174.74
+2023-02-01,Karori,Wellington,Wellington City,2-bedroom,640,75,-41.286,174.74
+2023-02-01,Karori,Wellington,Wellington City,3-bedroom,775,68,-41.286,174.74
+2023-03-01,Karori,Wellington,Wellington City,1-bedroom,525,69,-41.286,174.74
+2023-03-01,Karori,Wellington,Wellington City,2-bedroom,640,69,-41.286,174.74
+2023-03-01,Karori,Wellington,Wellington City,3-bedroom,775,59,-41.286,174.74
+2023-04-01,Karori,Wellington,Wellington City,1-bedroom,510,63,-41.286,174.74
+2023-04-01,Karori,Wellington,Wellington City,2-bedroom,630,55,-41.286,174.74
+2023-04-01,Karori,Wellington,Wellington City,3-bedroom,775,52,-41.286,174.74
+2023-05-01,Karori,Wellington,Wellington City,1-bedroom,515,56,-41.286,174.74
+2023-05-01,Karori,Wellington,Wellington City,2-bedroom,635,57,-41.286,174.74
+2023-05-01,Karori,Wellington,Wellington City,3-bedroom,755,51,-41.286,174.74
+2023-06-01,Karori,Wellington,Wellington City,1-bedroom,520,54,-41.286,174.74
+2023-06-01,Karori,Wellington,Wellington City,2-bedroom,640,52,-41.286,174.74
+2023-06-01,Karori,Wellington,Wellington City,3-bedroom,760,46,-41.286,174.74
+2023-07-01,Karori,Wellington,Wellington City,1-bedroom,515,56,-41.286,174.74
+2023-07-01,Karori,Wellington,Wellington City,2-bedroom,635,46,-41.286,174.74
+2023-07-01,Karori,Wellington,Wellington City,3-bedroom,770,40,-41.286,174.74
+2023-08-01,Karori,Wellington,Wellington City,1-bedroom,515,55,-41.286,174.74
+2023-08-01,Karori,Wellington,Wellington City,2-bedroom,630,54,-41.286,174.74
+2023-08-01,Karori,Wellington,Wellington City,3-bedroom,780,48,-41.286,174.74
+2023-09-01,Karori,Wellington,Wellington City,1-bedroom,510,60,-41.286,174.74
+2023-09-01,Karori,Wellington,Wellington City,2-bedroom,645,55,-41.286,174.74
+2023-09-01,Karori,Wellington,Wellington City,3-bedroom,800,51,-41.286,174.74
+2023-10-01,Karori,Wellington,Wellington City,1-bedroom,525,65,-41.286,174.74
+2023-10-01,Karori,Wellington,Wellington City,2-bedroom,645,59,-41.286,174.74
+2023-10-01,Karori,Wellington,Wellington City,3-bedroom,790,57,-41.286,174.74
+2023-11-01,Karori,Wellington,Wellington City,1-bedroom,525,67,-41.286,174.74
+2023-11-01,Karori,Wellington,Wellington City,2-bedroom,635,65,-41.286,174.74
+2023-11-01,Karori,Wellington,Wellington City,3-bedroom,780,53,-41.286,174.74
+2023-12-01,Karori,Wellington,Wellington City,1-bedroom,535,82,-41.286,174.74
+2023-12-01,Karori,Wellington,Wellington City,2-bedroom,655,70,-41.286,174.74
+2023-12-01,Karori,Wellington,Wellington City,3-bedroom,795,63,-41.286,174.74
+2024-01-01,Karori,Wellington,Wellington City,1-bedroom,540,75,-41.286,174.74
+2024-01-01,Karori,Wellington,Wellington City,2-bedroom,660,70,-41.286,174.74
+2024-01-01,Karori,Wellington,Wellington City,3-bedroom,790,67,-41.286,174.74
+2024-02-01,Karori,Wellington,Wellington City,1-bedroom,535,72,-41.286,174.74
+2024-02-01,Karori,Wellington,Wellington City,2-bedroom,660,65,-41.286,174.74
+2024-02-01,Karori,Wellington,Wellington City,3-bedroom,800,63,-41.286,174.74
+2024-03-01,Karori,Wellington,Wellington City,1-bedroom,540,72,-41.286,174.74
+2024-03-01,Karori,Wellington,Wellington City,2-bedroom,655,66,-41.286,174.74
+2024-03-01,Karori,Wellington,Wellington City,3-bedroom,810,61,-41.286,174.74
+2024-04-01,Karori,Wellington,Wellington City,1-bedroom,535,62,-41.286,174.74
+2024-04-01,Karori,Wellington,Wellington City,2-bedroom,645,58,-41.286,174.74
+2024-04-01,Karori,Wellington,Wellington City,3-bedroom,785,54,-41.286,174.74
+2024-05-01,Karori,Wellington,Wellington City,1-bedroom,530,62,-41.286,174.74
+2024-05-01,Karori,Wellington,Wellington City,2-bedroom,650,56,-41.286,174.74
+2024-05-01,Karori,Wellington,Wellington City,3-bedroom,790,44,-41.286,174.74
+2024-06-01,Karori,Wellington,Wellington City,1-bedroom,525,57,-41.286,174.74
+2024-06-01,Karori,Wellington,Wellington City,2-bedroom,640,52,-41.286,174.74
+2024-06-01,Karori,Wellington,Wellington City,3-bedroom,800,50,-41.286,174.74
+2024-07-01,Karori,Wellington,Wellington City,1-bedroom,530,60,-41.286,174.74
+2024-07-01,Karori,Wellington,Wellington City,2-bedroom,650,48,-41.286,174.74
+2024-07-01,Karori,Wellington,Wellington City,3-bedroom,780,44,-41.286,174.74
+2024-08-01,Karori,Wellington,Wellington City,1-bedroom,530,58,-41.286,174.74
+2024-08-01,Karori,Wellington,Wellington City,2-bedroom,655,51,-41.286,174.74
+2024-08-01,Karori,Wellington,Wellington City,3-bedroom,795,50,-41.286,174.74
+2024-09-01,Karori,Wellington,Wellington City,1-bedroom,540,56,-41.286,174.74
+2024-09-01,Karori,Wellington,Wellington City,2-bedroom,640,57,-41.286,174.74
+2024-09-01,Karori,Wellington,Wellington City,3-bedroom,785,49,-41.286,174.74
+2024-10-01,Karori,Wellington,Wellington City,1-bedroom,535,60,-41.286,174.74
+2024-10-01,Karori,Wellington,Wellington City,2-bedroom,665,61,-41.286,174.74
+2024-10-01,Karori,Wellington,Wellington City,3-bedroom,795,47,-41.286,174.74
+2024-11-01,Karori,Wellington,Wellington City,1-bedroom,545,72,-41.286,174.74
+2024-11-01,Karori,Wellington,Wellington City,2-bedroom,655,64,-41.286,174.74
+2024-11-01,Karori,Wellington,Wellington City,3-bedroom,810,61,-41.286,174.74
+2024-12-01,Karori,Wellington,Wellington City,1-bedroom,550,71,-41.286,174.74
+2024-12-01,Karori,Wellington,Wellington City,2-bedroom,680,67,-41.286,174.74
+2024-12-01,Karori,Wellington,Wellington City,3-bedroom,815,60,-41.286,174.74
+2025-01-01,Karori,Wellington,Wellington City,1-bedroom,550,73,-41.286,174.74
+2025-01-01,Karori,Wellington,Wellington City,2-bedroom,675,74,-41.286,174.74
+2025-01-01,Karori,Wellington,Wellington City,3-bedroom,805,59,-41.286,174.74
+2025-02-01,Karori,Wellington,Wellington City,1-bedroom,560,74,-41.286,174.74
+2025-02-01,Karori,Wellington,Wellington City,2-bedroom,670,71,-41.286,174.74
+2025-02-01,Karori,Wellington,Wellington City,3-bedroom,810,68,-41.286,174.74
+2025-03-01,Karori,Wellington,Wellington City,1-bedroom,555,69,-41.286,174.74
+2025-03-01,Karori,Wellington,Wellington City,2-bedroom,690,62,-41.286,174.74
+2025-03-01,Karori,Wellington,Wellington City,3-bedroom,820,60,-41.286,174.74
+2025-04-01,Karori,Wellington,Wellington City,1-bedroom,560,70,-41.286,174.74
+2025-04-01,Karori,Wellington,Wellington City,2-bedroom,670,57,-41.286,174.74
+2025-04-01,Karori,Wellington,Wellington City,3-bedroom,815,52,-41.286,174.74
+2025-05-01,Karori,Wellington,Wellington City,1-bedroom,560,61,-41.286,174.74
+2025-05-01,Karori,Wellington,Wellington City,2-bedroom,665,55,-41.286,174.74
+2025-05-01,Karori,Wellington,Wellington City,3-bedroom,795,47,-41.286,174.74
+2025-06-01,Karori,Wellington,Wellington City,1-bedroom,555,55,-41.286,174.74
+2025-06-01,Karori,Wellington,Wellington City,2-bedroom,660,52,-41.286,174.74
+2025-06-01,Karori,Wellington,Wellington City,3-bedroom,815,48,-41.286,174.74
+2025-07-01,Karori,Wellington,Wellington City,1-bedroom,555,54,-41.286,174.74
+2025-07-01,Karori,Wellington,Wellington City,2-bedroom,655,54,-41.286,174.74
+2025-07-01,Karori,Wellington,Wellington City,3-bedroom,800,44,-41.286,174.74
+2025-08-01,Karori,Wellington,Wellington City,1-bedroom,560,59,-41.286,174.74
+2025-08-01,Karori,Wellington,Wellington City,2-bedroom,675,57,-41.286,174.74
+2025-08-01,Karori,Wellington,Wellington City,3-bedroom,800,49,-41.286,174.74
+2025-09-01,Karori,Wellington,Wellington City,1-bedroom,555,62,-41.286,174.74
+2025-09-01,Karori,Wellington,Wellington City,2-bedroom,685,56,-41.286,174.74
+2025-09-01,Karori,Wellington,Wellington City,3-bedroom,820,53,-41.286,174.74
+2025-10-01,Karori,Wellington,Wellington City,1-bedroom,555,63,-41.286,174.74
+2025-10-01,Karori,Wellington,Wellington City,2-bedroom,670,53,-41.286,174.74
+2025-10-01,Karori,Wellington,Wellington City,3-bedroom,840,51,-41.286,174.74
+2023-01-01,Petone,Wellington,Lower Hutt City,1-bedroom,495,75,-41.226,174.869
+2023-01-01,Petone,Wellington,Lower Hutt City,2-bedroom,620,71,-41.226,174.869
+2023-01-01,Petone,Wellington,Lower Hutt City,3-bedroom,765,63,-41.226,174.869
+2023-02-01,Petone,Wellington,Lower Hutt City,1-bedroom,495,75,-41.226,174.869
+2023-02-01,Petone,Wellington,Lower Hutt City,2-bedroom,615,72,-41.226,174.869
+2023-02-01,Petone,Wellington,Lower Hutt City,3-bedroom,765,65,-41.226,174.869
+2023-03-01,Petone,Wellington,Lower Hutt City,1-bedroom,500,74,-41.226,174.869
+2023-03-01,Petone,Wellington,Lower Hutt City,2-bedroom,620,60,-41.226,174.869
+2023-03-01,Petone,Wellington,Lower Hutt City,3-bedroom,760,57,-41.226,174.869
+2023-04-01,Petone,Wellington,Lower Hutt City,1-bedroom,490,68,-41.226,174.869
+2023-04-01,Petone,Wellington,Lower Hutt City,2-bedroom,625,59,-41.226,174.869
+2023-04-01,Petone,Wellington,Lower Hutt City,3-bedroom,755,60,-41.226,174.869
+2023-05-01,Petone,Wellington,Lower Hutt City,1-bedroom,495,69,-41.226,174.869
+2023-05-01,Petone,Wellington,Lower Hutt City,2-bedroom,615,49,-41.226,174.869
+2023-05-01,Petone,Wellington,Lower Hutt City,3-bedroom,760,51,-41.226,174.869
+2023-06-01,Petone,Wellington,Lower Hutt City,1-bedroom,500,59,-41.226,174.869
+2023-06-01,Petone,Wellington,Lower Hutt City,2-bedroom,610,47,-41.226,174.869
+2023-06-01,Petone,Wellington,Lower Hutt City,3-bedroom,745,43,-41.226,174.869
+2023-07-01,Petone,Wellington,Lower Hutt City,1-bedroom,490,58,-41.226,174.869
+2023-07-01,Petone,Wellington,Lower Hutt City,2-bedroom,625,50,-41.226,174.869
+2023-07-01,Petone,Wellington,Lower Hutt City,3-bedroom,740,46,-41.226,174.869
+2023-08-01,Petone,Wellington,Lower Hutt City,1-bedroom,500,55,-41.226,174.869
+2023-08-01,Petone,Wellington,Lower Hutt City,2-bedroom,615,51,-41.226,174.869
+2023-08-01,Petone,Wellington,Lower Hutt City,3-bedroom,745,48,-41.226,174.869
+2023-09-01,Petone,Wellington,Lower Hutt City,1-bedroom,500,62,-41.226,174.869
+2023-09-01,Petone,Wellington,Lower Hutt City,2-bedroom,610,53,-41.226,174.869
+2023-09-01,Petone,Wellington,Lower Hutt City,3-bedroom,765,48,-41.226,174.869
+2023-10-01,Petone,Wellington,Lower Hutt City,1-bedroom,515,65,-41.226,174.869
+2023-10-01,Petone,Wellington,Lower Hutt City,2-bedroom,625,62,-41.226,174.869
+2023-10-01,Petone,Wellington,Lower Hutt City,3-bedroom,750,49,-41.226,174.869
+2023-11-01,Petone,Wellington,Lower Hutt City,1-bedroom,500,74,-41.226,174.869
+2023-11-01,Petone,Wellington,Lower Hutt City,2-bedroom,625,72,-41.226,174.869
+2023-11-01,Petone,Wellington,Lower Hutt City,3-bedroom,765,60,-41.226,174.869
+2023-12-01,Petone,Wellington,Lower Hutt City,1-bedroom,520,80,-41.226,174.869
+2023-12-01,Petone,Wellington,Lower Hutt City,2-bedroom,650,71,-41.226,174.869
+2023-12-01,Petone,Wellington,Lower Hutt City,3-bedroom,785,65,-41.226,174.869
+2024-01-01,Petone,Wellington,Lower Hutt City,1-bedroom,520,74,-41.226,174.869
+2024-01-01,Petone,Wellington,Lower Hutt City,2-bedroom,630,69,-41.226,174.869
+2024-01-01,Petone,Wellington,Lower Hutt City,3-bedroom,775,63,-41.226,174.869
+2024-02-01,Petone,Wellington,Lower Hutt City,1-bedroom,520,77,-41.226,174.869
+2024-02-01,Petone,Wellington,Lower Hutt City,2-bedroom,635,72,-41.226,174.869
+2024-02-01,Petone,Wellington,Lower Hutt City,3-bedroom,770,62,-41.226,174.869
+2024-03-01,Petone,Wellington,Lower Hutt City,1-bedroom,510,65,-41.226,174.869
+2024-03-01,Petone,Wellington,Lower Hutt City,2-bedroom,635,64,-41.226,174.869
+2024-03-01,Petone,Wellington,Lower Hutt City,3-bedroom,790,61,-41.226,174.869
+2024-04-01,Petone,Wellington,Lower Hutt City,1-bedroom,505,71,-41.226,174.869
+2024-04-01,Petone,Wellington,Lower Hutt City,2-bedroom,640,61,-41.226,174.869
+2024-04-01,Petone,Wellington,Lower Hutt City,3-bedroom,770,52,-41.226,174.869
+2024-05-01,Petone,Wellington,Lower Hutt City,1-bedroom,510,64,-41.226,174.869
+2024-05-01,Petone,Wellington,Lower Hutt City,2-bedroom,645,59,-41.226,174.869
+2024-05-01,Petone,Wellington,Lower Hutt City,3-bedroom,765,46,-41.226,174.869
+2024-06-01,Petone,Wellington,Lower Hutt City,1-bedroom,510,52,-41.226,174.869
+2024-06-01,Petone,Wellington,Lower Hutt City,2-bedroom,630,50,-41.226,174.869
+2024-06-01,Petone,Wellington,Lower Hutt City,3-bedroom,765,41,-41.226,174.869
+2024-07-01,Petone,Wellington,Lower Hutt City,1-bedroom,515,54,-41.226,174.869
+2024-07-01,Petone,Wellington,Lower Hutt City,2-bedroom,620,41,-41.226,174.869
+2024-07-01,Petone,Wellington,Lower Hutt City,3-bedroom,765,50,-41.226,174.869
+2024-08-01,Petone,Wellington,Lower Hutt City,1-bedroom,525,56,-41.226,174.869
+2024-08-01,Petone,Wellington,Lower Hutt City,2-bedroom,625,52,-41.226,174.869
+2024-08-01,Petone,Wellington,Lower Hutt City,3-bedroom,760,47,-41.226,174.869
+2024-09-01,Petone,Wellington,Lower Hutt City,1-bedroom,520,65,-41.226,174.869
+2024-09-01,Petone,Wellington,Lower Hutt City,2-bedroom,635,53,-41.226,174.869
+2024-09-01,Petone,Wellington,Lower Hutt City,3-bedroom,765,47,-41.226,174.869
+2024-10-01,Petone,Wellington,Lower Hutt City,1-bedroom,520,67,-41.226,174.869
+2024-10-01,Petone,Wellington,Lower Hutt City,2-bedroom,650,57,-41.226,174.869
+2024-10-01,Petone,Wellington,Lower Hutt City,3-bedroom,795,54,-41.226,174.869
+2024-11-01,Petone,Wellington,Lower Hutt City,1-bedroom,525,68,-41.226,174.869
+2024-11-01,Petone,Wellington,Lower Hutt City,2-bedroom,630,67,-41.226,174.869
+2024-11-01,Petone,Wellington,Lower Hutt City,3-bedroom,795,59,-41.226,174.869
+2024-12-01,Petone,Wellington,Lower Hutt City,1-bedroom,530,76,-41.226,174.869
+2024-12-01,Petone,Wellington,Lower Hutt City,2-bedroom,640,66,-41.226,174.869
+2024-12-01,Petone,Wellington,Lower Hutt City,3-bedroom,800,59,-41.226,174.869
+2025-01-01,Petone,Wellington,Lower Hutt City,1-bedroom,535,71,-41.226,174.869
+2025-01-01,Petone,Wellington,Lower Hutt City,2-bedroom,655,69,-41.226,174.869
+2025-01-01,Petone,Wellington,Lower Hutt City,3-bedroom,780,68,-41.226,174.869
+2025-02-01,Petone,Wellington,Lower Hutt City,1-bedroom,530,72,-41.226,174.869
+2025-02-01,Petone,Wellington,Lower Hutt City,2-bedroom,655,71,-41.226,174.869
+2025-02-01,Petone,Wellington,Lower Hutt City,3-bedroom,785,63,-41.226,174.869
+2025-03-01,Petone,Wellington,Lower Hutt City,1-bedroom,535,73,-41.226,174.869
+2025-03-01,Petone,Wellington,Lower Hutt City,2-bedroom,655,63,-41.226,174.869
+2025-03-01,Petone,Wellington,Lower Hutt City,3-bedroom,785,60,-41.226,174.869
+2025-04-01,Petone,Wellington,Lower Hutt City,1-bedroom,525,57,-41.226,174.869
+2025-04-01,Petone,Wellington,Lower Hutt City,2-bedroom,655,62,-41.226,174.869
+2025-04-01,Petone,Wellington,Lower Hutt City,3-bedroom,770,51,-41.226,174.869
+2025-05-01,Petone,Wellington,Lower Hutt City,1-bedroom,535,67,-41.226,174.869
+2025-05-01,Petone,Wellington,Lower Hutt City,2-bedroom,650,52,-41.226,174.869
+2025-05-01,Petone,Wellington,Lower Hutt City,3-bedroom,785,54,-41.226,174.869
+2025-06-01,Petone,Wellington,Lower Hutt City,1-bedroom,525,55,-41.226,174.869
+2025-06-01,Petone,Wellington,Lower Hutt City,2-bedroom,645,48,-41.226,174.869
+2025-06-01,Petone,Wellington,Lower Hutt City,3-bedroom,785,51,-41.226,174.869
+2025-07-01,Petone,Wellington,Lower Hutt City,1-bedroom,530,55,-41.226,174.869
+2025-07-01,Petone,Wellington,Lower Hutt City,2-bedroom,645,45,-41.226,174.869
+2025-07-01,Petone,Wellington,Lower Hutt City,3-bedroom,795,44,-41.226,174.869
+2025-08-01,Petone,Wellington,Lower Hutt City,1-bedroom,530,67,-41.226,174.869
+2025-08-01,Petone,Wellington,Lower Hutt City,2-bedroom,650,48,-41.226,174.869
+2025-08-01,Petone,Wellington,Lower Hutt City,3-bedroom,785,49,-41.226,174.869
+2025-09-01,Petone,Wellington,Lower Hutt City,1-bedroom,535,57,-41.226,174.869
+2025-09-01,Petone,Wellington,Lower Hutt City,2-bedroom,660,52,-41.226,174.869
+2025-09-01,Petone,Wellington,Lower Hutt City,3-bedroom,810,53,-41.226,174.869
+2025-10-01,Petone,Wellington,Lower Hutt City,1-bedroom,535,70,-41.226,174.869
+2025-10-01,Petone,Wellington,Lower Hutt City,2-bedroom,660,62,-41.226,174.869
+2025-10-01,Petone,Wellington,Lower Hutt City,3-bedroom,805,52,-41.226,174.869
+2023-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,430,81,-43.526,172.6
+2023-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,565,69,-43.526,172.6
+2023-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,700,67,-43.526,172.6
+2023-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,450,74,-43.526,172.6
+2023-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,565,74,-43.526,172.6
+2023-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,710,66,-43.526,172.6
+2023-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,430,75,-43.526,172.6
+2023-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,565,69,-43.526,172.6
+2023-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,715,69,-43.526,172.6
+2023-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,435,70,-43.526,172.6
+2023-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,565,61,-43.526,172.6
+2023-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,705,56,-43.526,172.6
+2023-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,435,69,-43.526,172.6
+2023-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,555,61,-43.526,172.6
+2023-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,715,52,-43.526,172.6
+2023-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,420,60,-43.526,172.6
+2023-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,570,55,-43.526,172.6
+2023-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,690,48,-43.526,172.6
+2023-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,440,63,-43.526,172.6
+2023-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,560,52,-43.526,172.6
+2023-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,695,46,-43.526,172.6
+2023-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,445,61,-43.526,172.6
+2023-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,570,59,-43.526,172.6
+2023-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,710,48,-43.526,172.6
+2023-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,440,65,-43.526,172.6
+2023-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,560,59,-43.526,172.6
+2023-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,695,56,-43.526,172.6
+2023-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,440,70,-43.526,172.6
+2023-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,575,61,-43.526,172.6
+2023-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,715,56,-43.526,172.6
+2023-11-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,450,70,-43.526,172.6
+2023-11-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,575,72,-43.526,172.6
+2023-11-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,710,59,-43.526,172.6
+2023-12-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,450,77,-43.526,172.6
+2023-12-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,585,71,-43.526,172.6
+2023-12-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,725,68,-43.526,172.6
+2024-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,455,77,-43.526,172.6
+2024-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,585,76,-43.526,172.6
+2024-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,725,62,-43.526,172.6
+2024-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,460,76,-43.526,172.6
+2024-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,570,72,-43.526,172.6
+2024-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,720,64,-43.526,172.6
+2024-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,455,74,-43.526,172.6
+2024-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,585,65,-43.526,172.6
+2024-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,725,60,-43.526,172.6
+2024-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,455,71,-43.526,172.6
+2024-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,575,65,-43.526,172.6
+2024-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,715,59,-43.526,172.6
+2024-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,450,71,-43.526,172.6
+2024-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,575,57,-43.526,172.6
+2024-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,715,52,-43.526,172.6
+2024-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,450,57,-43.526,172.6
+2024-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,570,52,-43.526,172.6
+2024-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,725,55,-43.526,172.6
+2024-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,450,61,-43.526,172.6
+2024-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,575,57,-43.526,172.6
+2024-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,705,49,-43.526,172.6
+2024-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,455,64,-43.526,172.6
+2024-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,580,58,-43.526,172.6
+2024-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,695,52,-43.526,172.6
+2024-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,450,60,-43.526,172.6
+2024-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,585,62,-43.526,172.6
+2024-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,720,56,-43.526,172.6
+2024-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,465,73,-43.526,172.6
+2024-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,600,64,-43.526,172.6
+2024-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,730,52,-43.526,172.6
+2024-11-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,460,71,-43.526,172.6
+2024-11-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,605,66,-43.526,172.6
+2024-11-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,735,63,-43.526,172.6
+2024-12-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,465,82,-43.526,172.6
+2024-12-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,590,70,-43.526,172.6
+2024-12-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,730,60,-43.526,172.6
+2025-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,465,78,-43.526,172.6
+2025-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,595,68,-43.526,172.6
+2025-01-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,725,65,-43.526,172.6
+2025-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,460,79,-43.526,172.6
+2025-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,600,65,-43.526,172.6
+2025-02-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,735,62,-43.526,172.6
+2025-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,470,78,-43.526,172.6
+2025-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,585,67,-43.526,172.6
+2025-03-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,735,63,-43.526,172.6
+2025-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,465,67,-43.526,172.6
+2025-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,595,60,-43.526,172.6
+2025-04-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,745,57,-43.526,172.6
+2025-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,475,65,-43.526,172.6
+2025-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,590,53,-43.526,172.6
+2025-05-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,715,48,-43.526,172.6
+2025-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,465,64,-43.526,172.6
+2025-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,580,57,-43.526,172.6
+2025-06-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,725,50,-43.526,172.6
+2025-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,475,64,-43.526,172.6
+2025-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,590,51,-43.526,172.6
+2025-07-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,710,46,-43.526,172.6
+2025-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,465,59,-43.526,172.6
+2025-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,595,55,-43.526,172.6
+2025-08-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,730,48,-43.526,172.6
+2025-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,470,67,-43.526,172.6
+2025-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,590,62,-43.526,172.6
+2025-09-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,735,53,-43.526,172.6
+2025-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,1-bedroom,475,70,-43.526,172.6
+2025-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,2-bedroom,610,63,-43.526,172.6
+2025-10-01,Riccarton,Canterbury/Christchurch,Christchurch City,3-bedroom,735,58,-43.526,172.6
+2023-01-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,480,78,-43.513,172.624
+2023-01-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,615,70,-43.513,172.624
+2023-01-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,760,60,-43.513,172.624
+2023-02-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,485,77,-43.513,172.624
+2023-02-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,620,66,-43.513,172.624
+2023-02-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,770,62,-43.513,172.624
+2023-03-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,490,75,-43.513,172.624
+2023-03-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,610,72,-43.513,172.624
+2023-03-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,745,64,-43.513,172.624
+2023-04-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,490,67,-43.513,172.624
+2023-04-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,625,61,-43.513,172.624
+2023-04-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,755,58,-43.513,172.624
+2023-05-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,480,68,-43.513,172.624
+2023-05-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,615,53,-43.513,172.624
+2023-05-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,760,48,-43.513,172.624
+2023-06-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,490,66,-43.513,172.624
+2023-06-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,605,53,-43.513,172.624
+2023-06-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,740,49,-43.513,172.624
+2023-07-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,480,63,-43.513,172.624
+2023-07-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,620,58,-43.513,172.624
+2023-07-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,745,48,-43.513,172.624
+2023-08-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,475,60,-43.513,172.624
+2023-08-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,620,60,-43.513,172.624
+2023-08-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,740,48,-43.513,172.624
+2023-09-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,485,66,-43.513,172.624
+2023-09-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,610,59,-43.513,172.624
+2023-09-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,750,53,-43.513,172.624
+2023-10-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,495,70,-43.513,172.624
+2023-10-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,620,62,-43.513,172.624
+2023-10-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,760,56,-43.513,172.624
+2023-11-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,495,78,-43.513,172.624
+2023-11-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,630,65,-43.513,172.624
+2023-11-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,775,60,-43.513,172.624
+2023-12-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,505,78,-43.513,172.624
+2023-12-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,630,71,-43.513,172.624
+2023-12-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,760,61,-43.513,172.624
+2024-01-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,495,78,-43.513,172.624
+2024-01-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,645,77,-43.513,172.624
+2024-01-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,780,67,-43.513,172.624
+2024-02-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,490,75,-43.513,172.624
+2024-02-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,630,67,-43.513,172.624
+2024-02-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,775,63,-43.513,172.624
+2024-03-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,490,76,-43.513,172.624
+2024-03-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,625,67,-43.513,172.624
+2024-03-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,790,58,-43.513,172.624
+2024-04-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,485,69,-43.513,172.624
+2024-04-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,635,68,-43.513,172.624
+2024-04-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,760,58,-43.513,172.624
+2024-05-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,495,65,-43.513,172.624
+2024-05-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,645,53,-43.513,172.624
+2024-05-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,770,54,-43.513,172.624
+2024-06-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,505,63,-43.513,172.624
+2024-06-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,630,54,-43.513,172.624
+2024-06-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,765,49,-43.513,172.624
+2024-07-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,500,60,-43.513,172.624
+2024-07-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,630,54,-43.513,172.624
+2024-07-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,775,48,-43.513,172.624
+2024-08-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,490,66,-43.513,172.624
+2024-08-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,620,53,-43.513,172.624
+2024-08-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,760,54,-43.513,172.624
+2024-09-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,490,75,-43.513,172.624
+2024-09-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,640,58,-43.513,172.624
+2024-09-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,770,54,-43.513,172.624
+2024-10-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,510,71,-43.513,172.624
+2024-10-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,640,62,-43.513,172.624
+2024-10-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,775,57,-43.513,172.624
+2024-11-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,510,77,-43.513,172.624
+2024-11-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,645,57,-43.513,172.624
+2024-11-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,790,62,-43.513,172.624
+2024-12-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,515,76,-43.513,172.624
+2024-12-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,655,72,-43.513,172.624
+2024-12-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,780,65,-43.513,172.624
+2025-01-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,510,74,-43.513,172.624
+2025-01-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,645,73,-43.513,172.624
+2025-01-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,800,67,-43.513,172.624
+2025-02-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,520,78,-43.513,172.624
+2025-02-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,645,71,-43.513,172.624
+2025-02-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,795,67,-43.513,172.624
+2025-03-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,525,76,-43.513,172.624
+2025-03-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,650,69,-43.513,172.624
+2025-03-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,790,59,-43.513,172.624
+2025-04-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,515,67,-43.513,172.624
+2025-04-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,640,62,-43.513,172.624
+2025-04-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,780,56,-43.513,172.624
+2025-05-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,500,66,-43.513,172.624
+2025-05-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,645,55,-43.513,172.624
+2025-05-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,790,56,-43.513,172.624
+2025-06-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,505,60,-43.513,172.624
+2025-06-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,635,52,-43.513,172.624
+2025-06-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,785,49,-43.513,172.624
+2025-07-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,510,55,-43.513,172.624
+2025-07-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,645,50,-43.513,172.624
+2025-07-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,780,49,-43.513,172.624
+2025-08-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,525,58,-43.513,172.624
+2025-08-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,625,55,-43.513,172.624
+2025-08-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,800,53,-43.513,172.624
+2025-09-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,520,64,-43.513,172.624
+2025-09-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,655,55,-43.513,172.624
+2025-09-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,790,54,-43.513,172.624
+2025-10-01,Merivale,Canterbury/Christchurch,Christchurch City,1-bedroom,530,78,-43.513,172.624
+2025-10-01,Merivale,Canterbury/Christchurch,Christchurch City,2-bedroom,655,60,-43.513,172.624
+2025-10-01,Merivale,Canterbury/Christchurch,Christchurch City,3-bedroom,795,52,-43.513,172.624
+2023-01-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,410,77,-43.543,172.612
+2023-01-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,545,71,-43.543,172.612
+2023-01-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,680,69,-43.543,172.612
+2023-02-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,415,77,-43.543,172.612
+2023-02-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,545,70,-43.543,172.612
+2023-02-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,695,62,-43.543,172.612
+2023-03-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,410,73,-43.543,172.612
+2023-03-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,535,64,-43.543,172.612
+2023-03-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,680,64,-43.543,172.612
+2023-04-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,415,70,-43.543,172.612
+2023-04-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,550,62,-43.543,172.612
+2023-04-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,685,57,-43.543,172.612
+2023-05-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,415,64,-43.543,172.612
+2023-05-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,525,57,-43.543,172.612
+2023-05-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,695,56,-43.543,172.612
+2023-06-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,420,66,-43.543,172.612
+2023-06-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,540,55,-43.543,172.612
+2023-06-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,675,49,-43.543,172.612
+2023-07-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,415,65,-43.543,172.612
+2023-07-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,540,52,-43.543,172.612
+2023-07-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,680,50,-43.543,172.612
+2023-08-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,405,55,-43.543,172.612
+2023-08-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,540,51,-43.543,172.612
+2023-08-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,675,49,-43.543,172.612
+2023-09-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,415,70,-43.543,172.612
+2023-09-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,550,59,-43.543,172.612
+2023-09-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,690,49,-43.543,172.612
+2023-10-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,69,-43.543,172.612
+2023-10-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,555,59,-43.543,172.612
+2023-10-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,680,59,-43.543,172.612
+2023-11-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,71,-43.543,172.612
+2023-11-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,550,70,-43.543,172.612
+2023-11-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,685,66,-43.543,172.612
+2023-12-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,425,79,-43.543,172.612
+2023-12-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,560,71,-43.543,172.612
+2023-12-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,695,64,-43.543,172.612
+2024-01-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,75,-43.543,172.612
+2024-01-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,565,69,-43.543,172.612
+2024-01-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,700,62,-43.543,172.612
+2024-02-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,415,76,-43.543,172.612
+2024-02-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,580,72,-43.543,172.612
+2024-02-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,705,63,-43.543,172.612
+2024-03-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,75,-43.543,172.612
+2024-03-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,555,70,-43.543,172.612
+2024-03-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,710,63,-43.543,172.612
+2024-04-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,70,-43.543,172.612
+2024-04-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,565,64,-43.543,172.612
+2024-04-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,695,55,-43.543,172.612
+2024-05-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,70,-43.543,172.612
+2024-05-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,550,53,-43.543,172.612
+2024-05-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,700,53,-43.543,172.612
+2024-06-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,63,-43.543,172.612
+2024-06-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,555,59,-43.543,172.612
+2024-06-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,680,47,-43.543,172.612
+2024-07-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,56,-43.543,172.612
+2024-07-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,555,59,-43.543,172.612
+2024-07-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,695,49,-43.543,172.612
+2024-08-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,425,60,-43.543,172.612
+2024-08-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,555,54,-43.543,172.612
+2024-08-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,710,51,-43.543,172.612
+2024-09-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,425,66,-43.543,172.612
+2024-09-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,565,61,-43.543,172.612
+2024-09-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,715,50,-43.543,172.612
+2024-10-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,430,66,-43.543,172.612
+2024-10-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,565,63,-43.543,172.612
+2024-10-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,715,57,-43.543,172.612
+2024-11-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,440,74,-43.543,172.612
+2024-11-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,565,72,-43.543,172.612
+2024-11-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,700,62,-43.543,172.612
+2024-12-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,455,77,-43.543,172.612
+2024-12-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,575,68,-43.543,172.612
+2024-12-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,715,68,-43.543,172.612
+2025-01-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,435,83,-43.543,172.612
+2025-01-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,570,70,-43.543,172.612
+2025-01-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,715,67,-43.543,172.612
+2025-02-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,435,78,-43.543,172.612
+2025-02-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,590,65,-43.543,172.612
+2025-02-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,720,62,-43.543,172.612
+2025-03-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,450,74,-43.543,172.612
+2025-03-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,575,68,-43.543,172.612
+2025-03-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,735,61,-43.543,172.612
+2025-04-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,450,66,-43.543,172.612
+2025-04-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,570,63,-43.543,172.612
+2025-04-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,730,58,-43.543,172.612
+2025-05-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,440,65,-43.543,172.612
+2025-05-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,565,60,-43.543,172.612
+2025-05-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,720,51,-43.543,172.612
+2025-06-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,440,63,-43.543,172.612
+2025-06-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,570,55,-43.543,172.612
+2025-06-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,730,49,-43.543,172.612
+2025-07-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,440,59,-43.543,172.612
+2025-07-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,580,53,-43.543,172.612
+2025-07-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,705,53,-43.543,172.612
+2025-08-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,455,60,-43.543,172.612
+2025-08-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,560,58,-43.543,172.612
+2025-08-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,705,52,-43.543,172.612
+2025-09-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,435,68,-43.543,172.612
+2025-09-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,570,60,-43.543,172.612
+2025-09-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,720,50,-43.543,172.612
+2025-10-01,Addington,Canterbury/Christchurch,Christchurch City,1-bedroom,450,72,-43.543,172.612
+2025-10-01,Addington,Canterbury/Christchurch,Christchurch City,2-bedroom,585,64,-43.543,172.612
+2025-10-01,Addington,Canterbury/Christchurch,Christchurch City,3-bedroom,740,52,-43.543,172.612
