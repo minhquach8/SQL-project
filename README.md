@@ -24,7 +24,7 @@ Built a complete **data-analytics pipeline** for New Zealand rental-price trends
 * Published an **interactive dashboard and story** online for public viewing.
 
 **Skills:** SQL, Databricks Delta Lake, PySpark, Data Modeling, ETL, Tableau Public, Data Storytelling
-**Live Dashboard:** [View on Tableau Public]([https://public.tableau.com/views/NZRentalAnalyticsDashboard/Overview](https://public.tableau.com/views/NZRentalAnalyticsDashboard/NZRentalInsightsStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/NZRentalAnalyticsDashboard/NZRentalInsightsStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Update (16-Oct-2025):
 **Databricks Cloud Edition available:**  
