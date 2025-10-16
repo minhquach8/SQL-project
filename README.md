@@ -8,8 +8,23 @@ The workflow follows a **Dimensional (Star) Schema** design in MySQL, integrates
 
 ---
 ## Update (17-Oct-2025):
-**Tableau Dashboard**
-View the live Tableau dashboard [here](https://public.tableau.com/views/NZRentalAnalyticsDashboard/NZRentalInsightsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+#### **New Zealand Rental Analytics Dashboard**
+
+*SQL + Azure Databricks + Tableau Public*
+
+Built a complete **data-analytics pipeline** for New Zealand rental-price trends.
+
+* Designed a **Star Schema (1 Fact + 3 Dimensions)** and implemented **Bronze → Silver → Gold** layers on Azure Databricks (Standard Tier).
+* Processed and cleaned housing data using **PySpark & SQL**, producing analytical tables for trend, growth, and volatility.
+* Visualised insights in **Tableau Public**:
+
+  * *Trendline:* average rent by region and month.
+  * *Top MoM Gainers:* fastest-growing suburbs.
+  * *Volatility:* 3-month rolling rent deviation.
+* Published an **interactive dashboard and story** online for public viewing.
+
+**Skills:** SQL, Databricks Delta Lake, PySpark, Data Modeling, ETL, Tableau Public, Data Storytelling
+**Live Dashboard:** [View on Tableau Public]([https://public.tableau.com/views/NZRentalAnalyticsDashboard/Overview](https://public.tableau.com/views/NZRentalAnalyticsDashboard/NZRentalInsightsStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Update (16-Oct-2025):
 **Databricks Cloud Edition available:**  
