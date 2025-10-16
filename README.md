@@ -7,6 +7,10 @@ It demonstrates **SQL data modelling**, **ETL**, and **analytical querying** ski
 The workflow follows a **Dimensional (Star) Schema** design in MySQL, integrates with **Python (pandas + SQLAlchemy)** for ETL and visualisation, and produces trend and seasonality insights across multiple regions.
 
 ---
+## Update (17-Oct-2025):
+**Tableau Dashboard**
+View the live Tableau dashboard [here](https://public.tableau.com/views/NZRentalAnalyticsDashboard/NZRentalInsightsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Update (16-Oct-2025):
 **Databricks Cloud Edition available:**  
 See [`notebooks/databricks/README_Databricks.md`](notebooks/databricks/README_Databricks.md)
